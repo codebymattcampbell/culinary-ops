@@ -78,10 +78,13 @@ Their emphasis on experimentation, heat transfer, measurement, and scientific re
 
 ```
 protocols/
-    Current best-known methods.
+    Current best-known methods for individual recipes and reusable components.
 
 experiments/
-    Individual cook logs and observations.
+    Individual cook logs, observations, and planned tests.
+
+meals/
+    Full meal compositions, weekly plans, timelines, and component maps.
 
 equipment/
     Equipment-specific notes and lessons learned.
@@ -90,7 +93,7 @@ techniques/
     Concepts that apply across recipes.
 
 templates/
-    Standardized documentation for future protocols.
+    Standardized documentation for future protocols, experiments, and meals.
 ```
 
 > "A protocol is simply the best method we know today. Tomorrow's experiment may improve it."
