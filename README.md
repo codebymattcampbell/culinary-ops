@@ -10,6 +10,10 @@ The goal is to build repeatable cooking protocols through experimentation, obser
 
 *It Can Always Be Better.*
 
+Every cook is an experiment.
+Every experiment produces observations.
+Every observation improves the protocol.
+
 ## Philosophy
 
 Cooking and engineering share many of the same principles.
