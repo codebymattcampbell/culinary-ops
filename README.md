@@ -2,7 +2,9 @@
 
 An engineering approach to cooking.
 
-The goal of this repository is not to collect recipes. The goal is to build repeatable cooking protocols through experimentation, observation, and continuous improvement.
+The goal is to build repeatable cooking protocols through experimentation, observation, and continuous improvement. 
+
+## Motto: It Can Always Be Better.
 
 ## Philosophy
 
