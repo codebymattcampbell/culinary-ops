@@ -16,20 +16,36 @@ Every observation improves the protocol.
 
 ## Philosophy
 
-Cooking and engineering share many of the same principles.
+Culinary Ops applies software engineering principles to cooking. Recipes are treated as code, experiments validate changes, and meals are assembled from reusable components. The goal is continuous improvement through documentation, measurement, and iteration.
 
 | Software Engineering | Culinary Ops |
 |----------------------|--------------|
 | Infrastructure as Code | Recipes as Code |
-| Deployments | Cooks |
+| Infrastructure | Pantry & Equipment |
+| Services | Individual Recipes |
+| Modules / Libraries | Components (Sauces, Sides, Doughs, Stocks) |
+| Deployments | Meals |
+| Environments | Kitchen Setup |
 | Feature Branches | Experiments |
-| Production Configuration | Current Best Protocol |
-| Pull Requests | Protocol Revisions |
-| CI/CD | Repeatability |
-| Monitoring | Measurements |
-| Postmortems / RCAs | Cook Reviews |
-| Version History | Protocol Evolution |
-| Documentation | Cook Notes |
+| Pull Requests | Cook Reviews |
+| Code Reviews | Taste Tests |
+| Unit Tests | Individual Recipe Testing |
+| Integration Tests | Full Meal Execution |
+| CI/CD Pipelines | Meal Timelines |
+| Releases | Validated Recipes |
+| Semantic Versioning | Recipe Revisions |
+| Refactoring | Recipe Refinement |
+| Technical Debt | Technique Debt |
+| Dependencies | Related Recipes |
+| Dependency Graph | Meal Composition |
+| Monitoring | Measurements & Observations |
+| Metrics | Quality Checks |
+| Logging | Cook Notes |
+| Documentation | Techniques & References |
+| Architecture Decision Records (ADRs) | Culinary Decision Records (CDRs) |
+| Postmortems / Root Cause Analysis | Cook Retrospectives |
+| Knowledge Base | Culinary Encyclopedia |
+| System Architecture | Menu Design |
 
 The objective is to approach cooking the same way an engineer approaches software:
 
