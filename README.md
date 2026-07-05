@@ -4,7 +4,11 @@ An engineering approach to cooking.
 
 The goal is to build repeatable cooking protocols through experimentation, observation, and continuous improvement. 
 
-## Motto: It Can Always Be Better.
+## Motto
+
+**Kaizen** - Continuous Improvement
+
+*It Can Always Be Better.*
 
 ## Philosophy
 
