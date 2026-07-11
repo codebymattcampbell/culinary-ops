@@ -77,16 +77,22 @@ Their emphasis on experimentation, heat transfer, measurement, and scientific re
 ## Repository Layout
 
 ```
+recipes/
+    Canonical recipes organized by the type of food or primary ingredient.
+
 protocols/
     Current best-known methods for individual recipes and reusable components.
 
 experiments/
     Individual cook logs, observations, and planned tests.
 
+collections/
+    Curated views of recipes organized by practical needs such as speed, cleanup, budget, or equipment.
+
 meals/
     Full meal compositions, weekly plans, timelines, and component maps.
 
-equipment/
+ equipment/
     Equipment-specific notes and lessons learned.
 
 techniques/
