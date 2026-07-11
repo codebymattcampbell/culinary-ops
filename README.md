@@ -92,7 +92,7 @@ collections/
 meals/
     Full meal compositions, weekly plans, timelines, and component maps.
 
- equipment/
+equipment/
     Equipment-specific notes and lessons learned.
 
 techniques/
