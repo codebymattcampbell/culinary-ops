@@ -1,16 +1,16 @@
-# MAIN - Turkish-Style Ground Turkey and Cabbage Skillet
+# Turkish-Style Ground Turkey and Cabbage Skillet
 
-A fast, savory one-pan dinner built around ground turkey and cabbage, seasoned with cumin, smoked paprika, and a bright acidic finish.
+A fast, savory one-pan dinner built around ground turkey and cabbage, seasoned with cumin, smoked paprika, and finished with fresh lemon juice for brightness.
 
 ---
 
-## Execution Summary
+# Execution Summary
 
 | Item | Value |
 |------|-------|
-| Prep Time | 10 min |
-| Cook Time | 20 min |
-| Total Time | 30 min |
+| Prep Time | 10 minutes |
+| Cook Time | 20 minutes |
+| Total Time | 30 minutes |
 | Servings | 4 |
 | Difficulty | Easy |
 | Cleanup | 1 pan |
@@ -18,76 +18,239 @@ A fast, savory one-pan dinner built around ground turkey and cabbage, seasoned w
 
 ---
 
-## Ingredients
+# Ingredients
 
-- 1 lb ground turkey
-- 1/2 medium green cabbage, thinly sliced
-- 1 medium yellow onion, thinly sliced
-- 3 cloves garlic, minced
-- 2 tbsp neutral oil, divided
+## Main Ingredients
+
+- 1 lb (454 g) ground turkey
+  - Recommended: **93% lean / 7% fat** (commonly labeled **93/7**)
+  - 99% lean / 1% fat also works but may require an additional teaspoon of oil.
+- 1/2 medium green cabbage (about 1 lb / 450 g)
+- 1 medium yellow onion (about 8 oz / 225 g)
+- 3 garlic cloves
+
+## Pantry
+
+- 2 tbsp neutral cooking oil, divided
 - 1 tbsp tomato paste (optional)
-- 1 1/2 tsp ground cumin
+
+## Seasonings
+
+- 1½ tsp ground cumin
 - 1 tsp smoked paprika
 - 1/2 tsp dried oregano
 - 1/4 tsp red pepper flakes (optional)
-- 1 tsp kosher salt, plus more to taste
-- 1/2 tsp black pepper
-- 1 tbsp lemon juice or red wine vinegar, plus more to taste
+- 1 tsp kosher salt, divided
+- 1/2 tsp freshly ground black pepper
+
+## Finish
+
+- 1 tbsp fresh lemon juice (preferred) or red wine vinegar
 
 ---
 
-## Optional Finish
+# Optional Finish
 
 - Plain Greek yogurt
-- Chopped parsley or dill
+- Fresh chopped parsley
+- Fresh chopped dill
 - Additional smoked paprika
 - Additional red pepper flakes
+
+## Serve With
+
 - Roasted potatoes
 - Rice
 - Warm flatbread
 
 ---
 
-## Equipment
+# Equipment
 
-- Large skillet
+- 12-inch (30 cm) skillet
 - Chef's knife
 - Cutting board
+- Measuring spoons
+- Two small prep bowls
+- Tongs or spatula
 
 ---
 
-## Method
+# Preparation
 
-1. Prep the cabbage, onion, and garlic before heating the pan. Once cooking begins, the dish moves quickly.
-2. Heat 1 tbsp neutral oil in a large skillet over medium-high heat.
-3. Add the ground turkey, spread it into an even layer, and leave it undisturbed for 2 to 3 minutes so the first side can brown.
-4. Break the turkey into bite-size pieces. Add 1/2 tsp salt and the black pepper, then continue cooking until no pink remains. Transfer the turkey to a bowl if the pan is crowded; otherwise push it to one side.
-5. Add the remaining 1 tbsp oil and the onion. Cook for 2 to 3 minutes until it begins to soften.
-6. Add the garlic, tomato paste, cumin, smoked paprika, oregano, and red pepper flakes. Cook for 30 to 60 seconds, stirring constantly, until fragrant and the tomato paste darkens slightly.
-7. Add the cabbage and remaining 1/2 tsp salt. Toss thoroughly to coat it in the seasoned oil.
-8. Cook for 5 to 8 minutes, stirring periodically, until the cabbage is tender but still has some structure. Keep the pan uncovered for better browning. Add 1 to 2 tbsp water only if the spices begin sticking before the cabbage softens.
-9. Return the turkey to the pan if it was removed. Toss everything together and cook for another 1 to 2 minutes.
-10. Remove the pan from the heat and stir in the lemon juice or vinegar. Taste and adjust the salt, acidity, and heat.
-11. Serve as-is or with yogurt and roasted potatoes, rice, or flatbread.
+Complete all preparation before turning on the stove.
+
+- Remove the core from the cabbage and slice it into ribbons approximately 1/4 inch (6 mm) wide.
+- Peel the onion and slice it into strips approximately 1/8 inch (3 mm) thick.
+- Peel and finely mince the garlic.
+- Measure the cumin, smoked paprika, oregano, and red pepper flakes into one small prep bowl.
+- Measure the lemon juice into a separate prep bowl.
+- Divide the kosher salt into two equal 1/2 teaspoon portions.
 
 ---
 
-## Notes
+# Method
 
-- A wide skillet works better than a deep pot because moisture can escape instead of steaming the cabbage.
-- Browning the turkey before breaking it apart creates more flavor than stirring it constantly from the start.
-- The acidic finish is important. It balances the sweetness of the cooked cabbage and the earthy spices.
-- For softer cabbage, cover the skillet for 2 minutes after adding it, then uncover and cook off any remaining liquid.
+## Step 1 - Brown the Turkey
+
+Heat 1 tablespoon of the oil in a 12-inch skillet over medium-high heat.
+
+When the oil begins to shimmer, add the ground turkey.
+
+Spread it into a single even layer covering most of the skillet.
+
+Leave the turkey completely undisturbed for **2 to 3 minutes**.
+
+Break the turkey into bite-sized pieces.
+
+Season with:
+
+- First 1/2 teaspoon kosher salt
+- Black pepper
+
+Continue cooking another **3 to 4 minutes** until no pink remains.
+
+If a large amount of liquid accumulates in the skillet, transfer the turkey to a bowl and carefully discard the excess liquid.
+
+### Quality Check
+
+The turkey should have patches of deep golden-brown color before being broken apart.
+
+### Why
+
+Allowing the turkey to remain untouched encourages browning through the Maillard reaction. Stirring too early traps moisture against the meat, causing it to steam instead of brown.
+
+### Common Mistake
+
+Breaking the turkey apart immediately after adding it to the skillet.
+
+Result: Pale meat with significantly less flavor.
 
 ---
 
-## Related
+## Step 2 - Build the Flavor Base
 
-### Collections
+Add the remaining tablespoon of oil.
+
+Add the sliced onion.
+
+Cook **2 to 3 minutes**, stirring occasionally, until the onion becomes translucent and flexible but has not significantly browned.
+
+Add:
+
+- Garlic
+- Tomato paste (if using)
+- Prepared spice mixture
+
+Cook **30 to 60 seconds**, stirring constantly.
+
+### Quality Check
+
+The tomato paste should darken slightly and the spices should smell noticeably more aromatic than when dry.
+
+### Why
+
+Cooking spices briefly in oil releases fat-soluble flavor compounds, creating deeper and more balanced flavor.
+
+### Common Mistake
+
+Walking away from the skillet.
+
+Result: Garlic and spices burn surprisingly quickly.
+
+---
+
+## Step 3 - Cook the Cabbage
+
+Add the sliced cabbage.
+
+Sprinkle over the remaining 1/2 teaspoon kosher salt.
+
+Using tongs or a spatula, toss until every ribbon of cabbage is coated with the seasoned oil.
+
+Cook uncovered for **5 to 8 minutes**, stirring every **1 to 2 minutes**.
+
+If spices begin sticking before the cabbage softens, add **1 tablespoon of water**.
+
+Repeat once if necessary.
+
+Do not exceed **2 tablespoons**.
+
+### Quality Check
+
+The cabbage should bend easily while still retaining a slight bite.
+
+Very little liquid should remain in the skillet.
+
+### Why
+
+Cooking uncovered allows moisture to evaporate so the cabbage sautés instead of steaming.
+
+### Common Mistake
+
+Covering the skillet.
+
+Result: The cabbage steams instead of sautéing, producing a softer texture and more diluted flavor.
+
+---
+
+## Step 4 - Finish
+
+Return the turkey to the skillet if it was removed.
+
+Cook **1 to 2 minutes**, stirring until evenly combined.
+
+Remove the skillet from the heat.
+
+Stir in the lemon juice.
+
+Taste.
+
+Adjust if necessary:
+
+- Needs more seasoning → add a pinch of kosher salt.
+- Needs more brightness → add another teaspoon of lemon juice.
+- Needs more heat → add another pinch of red pepper flakes.
+
+### Quality Check
+
+The finished dish should taste savory first, followed by warm spices and a noticeable brightness from the lemon.
+
+### Why
+
+The acidity balances the sweetness that naturally develops as the onions and cabbage cook.
+
+---
+
+# Serving
+
+Serve immediately.
+
+Optional garnishes:
+
+- Plain Greek yogurt
+- Fresh parsley
+- Fresh dill
+- Smoked paprika
+
+Excellent with roasted potatoes, rice, or warm flatbread.
+
+---
+
+# Storage
+
+- Refrigerate in an airtight container for up to 4 days.
+- Reheat gently in a skillet or microwave until just warmed through.
+
+---
+
+# Related
+
+## Collections
 
 - Quick Meals
 - One-Pan Meals
 
-### Experiments
+## Experiments
 
-- None
+- None (Draft Protocol)
