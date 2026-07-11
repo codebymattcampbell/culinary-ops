@@ -1,10 +1,22 @@
-# Turkish-Style Ground Turkey and Cabbage Skillet
+# MAIN - Turkish-Style Ground Turkey and Cabbage Skillet
 
 A fast, savory one-pan dinner built around ground turkey and cabbage, seasoned with cumin, smoked paprika, and a bright acidic finish.
 
-## Yield
+---
 
-4 servings
+## Execution Summary
+
+| Item | Value |
+|------|-------|
+| Prep Time | 10 min |
+| Cook Time | 20 min |
+| Total Time | 30 min |
+| Servings | 4 |
+| Difficulty | Easy |
+| Cleanup | 1 pan |
+| Status | Draft |
+
+---
 
 ## Ingredients
 
@@ -13,21 +25,36 @@ A fast, savory one-pan dinner built around ground turkey and cabbage, seasoned w
 - 1 medium yellow onion, thinly sliced
 - 3 cloves garlic, minced
 - 2 tbsp neutral oil, divided
-- 1 tbsp tomato paste, optional
+- 1 tbsp tomato paste (optional)
 - 1 1/2 tsp ground cumin
 - 1 tsp smoked paprika
 - 1/2 tsp dried oregano
-- 1/4 tsp red pepper flakes, optional
+- 1/4 tsp red pepper flakes (optional)
 - 1 tsp kosher salt, plus more to taste
 - 1/2 tsp black pepper
 - 1 tbsp lemon juice or red wine vinegar, plus more to taste
 
-## Optional Finish and Serving
+---
+
+## Optional Finish
 
 - Plain Greek yogurt
 - Chopped parsley or dill
-- Additional smoked paprika or red pepper flakes
-- Roasted potatoes, rice, or warm flatbread
+- Additional smoked paprika
+- Additional red pepper flakes
+- Roasted potatoes
+- Rice
+- Warm flatbread
+
+---
+
+## Equipment
+
+- Large skillet
+- Chef's knife
+- Cutting board
+
+---
 
 ## Method
 
@@ -43,9 +70,24 @@ A fast, savory one-pan dinner built around ground turkey and cabbage, seasoned w
 10. Remove the pan from the heat and stir in the lemon juice or vinegar. Taste and adjust the salt, acidity, and heat.
 11. Serve as-is or with yogurt and roasted potatoes, rice, or flatbread.
 
+---
+
 ## Notes
 
 - A wide skillet works better than a deep pot because moisture can escape instead of steaming the cabbage.
 - Browning the turkey before breaking it apart creates more flavor than stirring it constantly from the start.
 - The acidic finish is important. It balances the sweetness of the cooked cabbage and the earthy spices.
 - For softer cabbage, cover the skillet for 2 minutes after adding it, then uncover and cook off any remaining liquid.
+
+---
+
+## Related
+
+### Collections
+
+- Quick Meals
+- One-Pan Meals
+
+### Experiments
+
+- None
