@@ -1,8 +1,8 @@
 # Culinary Ops
 
-An engineering approach to cooking.
+An evidence-based cookbook and cooking knowledge base built around continuous improvement.
 
-The goal is to build repeatable cooking protocols through experimentation, observation, and continuous improvement. 
+The goal is to create reliable recipes, learn from every cook, and make that knowledge easy to use. Engineering principles help organize the work, but the repository is written for cooks rather than software engineers.
 
 ## Motto
 
@@ -12,58 +12,20 @@ The goal is to build repeatable cooking protocols through experimentation, obser
 
 Every cook is an experiment.
 Every experiment produces observations.
-Every observation improves the protocol.
+Every observation improves the recipe.
 
 ## Philosophy
 
-Culinary Ops applies software engineering principles to cooking. Recipes are treated as code, experiments validate changes, and meals are assembled from reusable components. The goal is continuous improvement through documentation, measurement, and iteration.
+Culinary Ops treats recipes as living documents. Experiments explain how they improve, measurements make results easier to repeat, and equipment notes capture the behavior of the tools in our actual kitchen.
 
-| Software Engineering | Culinary Ops |
-|----------------------|--------------|
-| Infrastructure as Code | Recipes as Code |
-| Infrastructure | Pantry & Equipment |
-| Services | Individual Recipes |
-| Modules / Libraries | Components (Sauces, Sides, Doughs, Stocks) |
-| Deployments | Meals |
-| Environments | Kitchen Setup |
-| Feature Branches | Experiments |
-| Pull Requests | Cook Reviews |
-| Code Reviews | Taste Tests |
-| Unit Tests | Individual Recipe Testing |
-| Integration Tests | Full Meal Execution |
-| CI/CD Pipelines | Meal Timelines |
-| Releases | Validated Recipes |
-| Semantic Versioning | Recipe Revisions |
-| Refactoring | Recipe Refinement |
-| Technical Debt | Technique Debt |
-| Dependencies | Related Recipes |
-| Dependency Graph | Meal Composition |
-| Monitoring | Measurements & Observations |
-| Metrics | Quality Checks |
-| Logging | Cook Notes |
-| Documentation | Techniques & References |
-| Architecture Decision Records (ADRs) | Culinary Decision Records (CDRs) |
-| Postmortems / Root Cause Analysis | Cook Retrospectives |
-| Knowledge Base | Culinary Encyclopedia |
-| System Architecture | Menu Design |
+The objective is straightforward:
 
-The objective is to approach cooking the same way an engineer approaches software:
-
-- Form a hypothesis.
-- Change one variable at a time.
-- Measure whenever practical.
-- Record observations.
-- Build repeatable processes.
-- Continuously refine the protocol.
-
-## Principles
-
-- Understand **why** a technique works before relying on it.
+- Understand why a technique works.
 - Prefer measurement over estimation.
-- Temperature is a variable, not a suggestion.
-- Time and temperature are independent variables.
-- Equipment matters, but technique matters more.
-- Every cook should teach something.
+- Treat temperature as a variable, not a suggestion.
+- Record useful observations.
+- Improve one variable at a time when practical.
+- Turn successful results into clear, repeatable recipes.
 
 ## Inspiration
 
@@ -72,37 +34,54 @@ This project is heavily inspired by the evidence-based cooking philosophies of:
 - Chris Young
 - Heston Blumenthal
 
-Their emphasis on experimentation, heat transfer, measurement, and scientific reasoning serves as the foundation for how protocols in this repository are developed.
+Their emphasis on heat transfer, measurement, experimentation, and scientific reasoning guides how recipes are developed and refined.
 
 ## Repository Layout
 
-```
+```text
 recipes/
-    Canonical recipes organized by the type of food or primary ingredient.
-
-    bread-machine/
-        Recipes adapted and validated for automatic bread machines.
-
-protocols/
-    Current best-known methods for individual recipes and reusable components.
+    The current best-known version of each dish, organized by food type.
 
 experiments/
-    Individual cook logs, observations, and planned tests.
-
-collections/
-    Curated views of recipes organized by practical needs such as speed, cleanup, budget, or equipment.
-
-meals/
-    Full meal compositions, weekly plans, timelines, and component maps.
+    Notes and results from individual cooks and planned tests.
 
 equipment/
-    Equipment-specific notes and lessons learned.
+    What each tool can do, how to use it safely, and lessons about our specific equipment.
 
 techniques/
-    Concepts that apply across recipes.
+    Reusable cooking skills and methods that apply across recipes.
+
+collections/
+    Curated groups of recipes organized by practical needs such as speed, budget, cleanup, or equipment.
+
+meals/
+    Complete meal combinations, timelines, shopping plans, and component maps.
 
 templates/
-    Standardized documentation for future protocols, experiments, and meals.
+    Consistent starting points for recipes, experiments, equipment guides, and meals.
 ```
 
-> "A protocol is simply the best method we know today. Tomorrow's experiment may improve it."
+## How the Pieces Work Together
+
+- Open a **recipe** when you want to make something.
+- Follow its **Required Equipment** links when you need information about a tool.
+- Read an **experiment** when you want to understand what happened during a test cook.
+- Use **techniques** to learn skills that apply to many dishes.
+- Browse **collections** when deciding what to cook.
+- Use **meals** when coordinating multiple recipes into one dinner.
+
+Each piece of information should have one clear home. Other documents link to it rather than copying it.
+
+## Recipe Status
+
+- **Experimental:** Still being actively tested.
+- **Tested:** Successfully cooked at least once but still being refined.
+- **Validated:** Repeated successfully and reliable enough to recommend.
+
+Recipes are the canonical current version. Git preserves their revision history, and experiment logs preserve the observations behind each change.
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the organization rules, recipe structure, equipment guidance, and writing style.
+
+> A recipe is simply the best method we know today. Tomorrow's experiment may improve it.
