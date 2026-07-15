@@ -80,6 +80,9 @@ Their emphasis on experimentation, heat transfer, measurement, and scientific re
 recipes/
     Canonical recipes organized by the type of food or primary ingredient.
 
+    bread-machine/
+        Recipes adapted and validated for automatic bread machines.
+
 protocols/
     Current best-known methods for individual recipes and reusable components.
 
