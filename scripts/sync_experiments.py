@@ -14,6 +14,7 @@ Existing experiment files are never overwritten or deleted.
 
 from __future__ import annotations
 
+import os
 import re
 import sys
 from pathlib import Path
@@ -31,7 +32,7 @@ def title_from_slug(slug: str) -> str:
 
 def build_experiment(recipe_path: Path, destination: Path, template: str) -> str:
     recipe_name = title_from_slug(recipe_path.stem)
-    recipe_link = Path("../../../") / recipe_path.relative_to(ROOT)
+    recipe_link = Path(os.path.relpath(recipe_path, destination.parent)).as_posix()
 
     content = template.replace(
         "# Experiment - Name - v1",
@@ -40,7 +41,7 @@ def build_experiment(recipe_path: Path, destination: Path, template: str) -> str
     )
     content = content.replace(
         "- Related Recipe:",
-        f"- Related Recipe: [{recipe_name}]({recipe_link.as_posix()})",
+        f"- Related Recipe: [{recipe_name}]({recipe_link})",
         1,
     )
     return content
