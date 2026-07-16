@@ -3,7 +3,7 @@
 ## Metadata
 
 - Date:
-- Related Protocol:
+- Related Recipe:
 - Status: Planned | Completed | Revisit
 - Cook Version: v1
 
@@ -35,6 +35,10 @@ What are we testing?
 - What worked:
 - What did not work:
 - Surprises:
+
+## Recommended Recipe Change
+
+- 
 
 ## Next Iteration
 
