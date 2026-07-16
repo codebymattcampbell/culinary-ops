@@ -1,11 +1,10 @@
-# Experiment - Name
+# Experiment - Name - v1
 
 ## Metadata
 
-- Date:
 - Related Recipe:
 - Status: Planned | Completed | Revisit
-- Cook Version: v1
+- Version: v1
 
 ## Hypothesis
 
@@ -16,9 +15,9 @@ What are we testing?
 - Changed:
 - Held constant:
 
-## Equipment
+## Required Equipment
 
-- 
+-
 
 ## Inputs
 
@@ -28,7 +27,7 @@ What are we testing?
 
 ## Observations
 
-- 
+-
 
 ## Results
 
@@ -38,8 +37,8 @@ What are we testing?
 
 ## Recommended Recipe Change
 
-- 
+-
 
 ## Next Iteration
 
-- 
+-
