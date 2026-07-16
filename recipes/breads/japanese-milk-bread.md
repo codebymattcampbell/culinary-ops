@@ -1,14 +1,14 @@
 # Japanese Milk Bread (Shokupan)
 
-A soft, enriched milk bread adapted for the **Zojirushi BB-PDC20** bread machine using a tangzhong to improve moisture retention and shelf life.
+A soft, enriched milk bread made in the **Zojirushi BB-PDC20** using tangzhong for improved moisture retention and shelf life.
 
-## Status
-
-**Experimental — not yet validated**
-
-## Yield
-
-One bread-machine loaf.
+| Recipe Details | Value |
+|---|---|
+| Status | **Tested** |
+| Difficulty | Intermediate |
+| Yield | 1 bread-machine loaf |
+| Total time | About 4 hours, plus 1 hour cooling |
+| Hands-on time | About 20 minutes |
 
 ## Required Equipment
 
@@ -16,10 +16,6 @@ One bread-machine loaf.
 - Small saucepan
 - Whisk or silicone spatula
 - Digital scale
-
-## Helpful but Optional
-
-- Instant-read thermometer
 
 ## Ingredients
 
@@ -30,96 +26,101 @@ One bread-machine loaf.
 
 ### Dough
 
-Add to the bread-machine pan in this order:
+- All of the cooled tangzhong
+- 140 g whole milk
+- 1 large egg, approximately 50 g without shell
+- 35 g unsalted butter, softened
+- 30 g sugar
+- 8 g fine salt
+- 360 g bread flour
+- 5 g instant yeast
 
-1. All of the cooled tangzhong
-2. 140 g whole milk
-3. 1 large egg, approximately 50 g without shell
-4. 35 g unsalted butter, softened
-5. 30 g sugar
-6. 8 g fine salt
-7. 360 g bread flour
-8. 5 g instant yeast
+### Whole-Milk Substitutions
 
-## Optional: Make a Whole-Milk Substitute from Heavy Cream
+| Recipe Portion | Whole Milk | Half-and-Half Substitute | Heavy-Cream Substitute |
+|---|---:|---:|---:|
+| Tangzhong | 100 g | 25 g half-and-half + 75 g water | 9 g heavy cream + 91 g water |
+| Dough | 140 g | 35 g half-and-half + 105 g water | 13 g heavy cream + 127 g water |
+| **Total** | **240 g** | **60 g half-and-half + 180 g water** | **22 g heavy cream + 218 g water** |
 
-For this recipe's **240 g total whole milk**, combine:
-
-- 22 g heavy cream
-- 218 g water
-
-This approximates the fat percentage of whole milk. It does not perfectly reproduce whole milk because diluted cream contains less milk protein and lactose, but it is a practical substitute for this enriched dough.
-
-Split the mixture between the recipe stages as follows:
-
-### Tangzhong portion
-
-- 9 g heavy cream
-- 91 g water
-
-### Dough portion
-
-- 13 g heavy cream
-- 127 g water
-
-Whisk each portion thoroughly before use.
+The half-and-half substitution was successfully tested in Version 1. Diluted dairy is not chemically identical to whole milk because it contains less milk protein and lactose, but it worked well in this enriched dough.
 
 ## Method
 
-### 1. Make the tangzhong
+### 1. Prepare the Tangzhong
 
-1. Whisk 20 g bread flour and 100 g whole milk, or the listed cream-and-water substitute, in a small saucepan until smooth.
+1. Whisk the 20 g bread flour and 100 g whole milk, or selected substitute, together **before applying heat**.
 2. Cook over medium-low heat while stirring continuously.
-3. Remove from the heat when the mixture thickens into a smooth paste and reaches approximately **149°F / 65°C**.
-4. Transfer to a small bowl and cool to room temperature before adding it to the machine.
+3. Remove from the heat when it becomes a glossy paste that leaves distinct trails behind the whisk, typically around **149°F / 65°C**.
+4. Transfer to a bowl and cool to room temperature.
 
-### 2. Load the bread machine
+### 2. Load the Bread Machine
 
-1. Install the kneading blades in the bread pan.
-2. Add the ingredients in the listed order.
-3. Keep the yeast separated from the salt and wet ingredients until the machine begins mixing. Place it in a shallow well in the flour.
+Install both kneading paddles.
 
-### 3. Select the program
+Add ingredients in this order:
 
-- **Course:** Basic White
-- **Crust:** Light
-- **Delay Timer:** Off
+1. Tangzhong
+2. Milk or substitute
+3. Egg
+4. Butter
+5. Sugar
+6. Salt
+7. Bread flour
+8. Instant yeast in a shallow well on top of the flour
 
-Start the machine.
+Keep the yeast separated from the liquid and salt until mixing begins.
 
-### 4. Check early dough development
+### 3. Select the Program
 
-Inspect the dough during the first kneading cycle. It should become soft, smooth, elastic, and slightly tacky while clearing most of the sides of the pan.
+| Setting | Value |
+|---|---|
+| Course | **1 — Basic White** |
+| Crust | **Light** |
+| Delay timer | **Off** |
 
-- If dry or stiff, add water 5 g at a time.
-- If wet enough to smear heavily along the pan, add bread flour 5 g at a time.
+Press **Start**. The machine may rest quietly before kneading begins; this is normal.
 
-Avoid correcting the dough during the first minute. Allow the flour time to hydrate before making adjustments.
+### 4. Check the Dough
 
-### 5. Cool
+Inspect during the first kneading cycle after the flour has had several minutes to hydrate.
 
-1. Remove the loaf promptly when the cycle finishes.
-2. Turn it out onto a wire rack.
-3. Allow it to cool for at least 60 minutes before slicing so the crumb can set.
+| Observation | Action |
+|---|---|
+| Smooth, elastic ball that clears most of the pan | Make no adjustment |
+| Dry or stiff | Add water **5 g at a time** |
+| Smearing heavily across the pan | Add bread flour **5 g at a time** |
 
-## Quality Targets
+The target dough is soft, smooth, elastic, slightly tacky, and cohesive.
 
-- Thin, lightly colored crust
-- Fine, shreddable crumb
-- Soft and resilient texture
-- Mild sweetness
-- No dense or gummy line near the bottom
+### 5. Finish and Cool
 
-## Variables to Record
+1. Remove the loaf promptly when the cycle completes.
+2. Turn it onto a wire rack.
+3. Cool for **at least 60 minutes** before slicing.
 
-- Actual milk or substitute used
-- Dough appearance during kneading
-- Any flour or water corrections
-- Final loaf height
-- Crust color
-- Crumb texture after full cooling
-- Texture on days two and three
+## Success Looks Like
 
-## Next Experiment
+| Attribute | Target |
+|---|---|
+| Rise | Full, well-supported loaf with no collapse |
+| Crust | Thin and lightly browned |
+| Crumb | Soft, even, and slightly shreddable |
+| Texture | Moist, resilient, and not gummy |
+| Flavor | Mildly sweet and rich |
+| Bottom | No dense or compressed band |
 
-Compare actual whole milk against the heavy-cream-and-water substitute while keeping all other variables constant.
+## Troubleshooting
+
+| Problem | Likely Cause | Next Adjustment |
+|---|---|---|
+| Dense loaf | Inactive yeast or dough too dry | Verify yeast and increase water slightly |
+| Collapsed loaf | Dough too wet or overproofed | Reduce liquid slightly |
+| Thick crust | Darker setting or delayed removal | Use Light and remove promptly |
+| Gummy crumb | Sliced while too warm | Cool for at least 1 hour |
+| Uneven or folded top | Bread-machine shaping behavior | Record it; do not change the formula unless crumb suffers |
+
+## Related
+
+- [Bread Machine](../../equipment/bread-machine.md)
+- [Japanese Milk Bread Experiments](../../experiments/breads/japanese-milk-bread/v1.md)
