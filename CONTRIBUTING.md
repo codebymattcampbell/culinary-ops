@@ -14,6 +14,30 @@ This repository is designed to remain understandable to cooks who have no softwa
 
 Do not duplicate a recipe under an equipment folder or collection. Link to its canonical location instead.
 
+## Repository Symmetry
+
+When practical, `experiments/` mirrors the category structure used by `recipes/`.
+
+A recipe at:
+
+```text
+recipes/breads/skillet-flatbread.md
+```
+
+has its experiment history at:
+
+```text
+experiments/breads/skillet-flatbread/
+```
+
+Each recipe-specific experiment directory should contain a `README.md` summary and dated experiment files named:
+
+```text
+YYYY-MM-DD-short-description.md
+```
+
+The recipe remains the current best-known method. The experiment directory preserves the evidence, observations, unsuccessful tests, and reasoning behind recipe changes.
+
 ## Recipe Structure
 
 A recipe should normally include:
