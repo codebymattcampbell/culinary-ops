@@ -1,0 +1,48 @@
+name: Sync Recipe Experiments
+
+on:
+  push:
+    paths:
+      - "recipes/**/*.md"
+      - "templates/experiment.md"
+      - "scripts/sync_experiments.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-recipe-experiments-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Create missing experiment skeletons
+        run: python scripts/sync_experiments.py
+
+      - name: Commit generated experiment files
+        run: |
+          if git diff --quiet -- experiments; then
+            echo "No experiment files needed."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add experiments
+          git commit -m "Generate experiment skeletons for recipes"
+          git push
