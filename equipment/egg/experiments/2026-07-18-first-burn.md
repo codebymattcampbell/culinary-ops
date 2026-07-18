@@ -77,6 +77,14 @@ Caution: shiny stainless grate rods may produce unreliable infrared readings. Pr
 |---|---:|---|---|---:|---:|---:|---:|---:|---|
 | Startup | ~120-130°F | Fully open | Fully open |  |  |  |  |  | Initial slow climb |
 | After coal adjustment | Approaching 200°F | Fully open | Fully open |  |  |  |  |  | Reliable climb began |
+| Low hold, first IR profile | ~250°F | Small opening | Daisy-wheel holes partially open | 375°F | 161°F | 135°F | 145°F | 95°F | Very large center-to-edge gradient with no deflector; grate readings may include IR error from shiny metal |
+
+## First IR Profile Interpretation
+
+- The center grate measured approximately 125°F hotter than the dome gauge, consistent with strong direct radiant heating over the active charcoal.
+- The outer grate measured much cooler than the center, confirming a pronounced direct-fire hot spot and a naturally cooler perimeter.
+- The inside wall, outside dome, and lower-body readings remained comparatively low because the ceramic had not yet fully heat-soaked.
+- This profile supports using a heat deflector for roasting and low-and-slow cooking and suggests the future deflector should cover most of the central radiant path while leaving a perimeter gap for airflow.
 
 ## Pending Results
 
@@ -84,7 +92,7 @@ Caution: shiny stainless grate rods may produce unreliable infrared readings. Pr
 - Temperature overshoot after restricting airflow
 - Medium-temperature vent settings
 - High-temperature behavior
-- IR surface-temperature profile
+- Additional IR surface-temperature profiles
 - Smoke leakage observations
 - Shutdown time
 - Remaining reusable charcoal
