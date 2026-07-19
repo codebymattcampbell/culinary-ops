@@ -51,7 +51,7 @@ Primary goals:
 3. Raise to approximately 500-550°F for 10-15 minutes.
 4. Close both vents completely and observe cooldown and fire extinction.
 
-The test will not intentionally chase the absolute maximum temperature on the first burn.
+The test did not intentionally chase the absolute maximum temperature on the first burn.
 
 ## Infrared Thermometer Plan
 
@@ -77,23 +77,55 @@ Caution: shiny stainless grate rods may produce unreliable infrared readings. Pr
 |---|---:|---|---|---:|---:|---:|---:|---:|---|
 | Startup | ~120-130°F | Fully open | Fully open |  |  |  |  |  | Initial slow climb |
 | After coal adjustment | Approaching 200°F | Fully open | Fully open |  |  |  |  |  | Reliable climb began |
-| Low hold, first IR profile | ~250°F | Small opening | Daisy-wheel holes partially open | 375°F | 161°F | 135°F | 145°F | 95°F | Very large center-to-edge gradient with no deflector; grate readings may include IR error from shiny metal |
+| Low hold, first IR profile | ~250°F | Small opening | Daisy-wheel holes partially open | 375°F | 161°F | 135°F | 145°F | 95°F | Very large center-to-edge gradient with no deflector; outer coals were not fully established |
+| Practical low hold | ~290°F | Hairline intake slit | Daisy-wheel holes partially open |  |  |  |  |  | Held steadily for an extended period |
+| Direct-grill setup | ~340-350°F before loading | Opened slightly from low hold | Top largely unchanged |  |  |  |  |  | Boneless skinless chicken thighs added |
+| Established coal bed | ~275-350°F during cook | Adjusted for recovery | Partially open |  |  |  |  |  | Center-to-edge difference narrowed to roughly 90-100°F after outer charcoal caught |
 
 ## First IR Profile Interpretation
 
 - The center grate measured approximately 125°F hotter than the dome gauge, consistent with strong direct radiant heating over the active charcoal.
-- The outer grate measured much cooler than the center, confirming a pronounced direct-fire hot spot and a naturally cooler perimeter.
+- The outer grate measured much cooler than the center because the fire was still concentrated near the middle and the grate extends beyond the firebox footprint.
 - The inside wall, outside dome, and lower-body readings remained comparatively low because the ceramic had not yet fully heat-soaked.
+- Once the outer charcoal caught, the temperature gradient narrowed substantially, showing that the initial 214°F difference was partly a localized-fire effect rather than a permanent cooker limitation.
 - This profile supports using a heat deflector for roasting and low-and-slow cooking and suggests the future deflector should cover most of the central radiant path while leaving a perimeter gap for airflow.
 
-## Pending Results
+## First Direct-Grilling Trial
 
-- Stable low-temperature vent settings
-- Temperature overshoot after restricting airflow
-- Medium-temperature vent settings
-- High-temperature behavior
-- Additional IR surface-temperature profiles
-- Smoke leakage observations
-- Shutdown time
-- Remaining reusable charcoal
-- Post-test ceramic and gasket inspection
+Food: Boneless, skinless chicken thighs.
+
+### What Happened
+
+- The grate was crowded with pieces of very different thickness and shape.
+- Several thighs were folded or bunched rather than spread flat.
+- The dome temperature dropped after loading, and the low-temperature vent settings slowed recovery.
+- Food placed outside the firebox footprint cooked much more slowly because that perimeter sits over ceramic rather than active charcoal.
+- Repeated lid openings for visual checks and temperature readings further slowed recovery.
+- The largest thigh was only about 143°F internal after a longer-than-expected cook.
+
+### Lessons Learned
+
+- The effective direct-grilling footprint is approximately the area over the firebox, not the full grate diameter.
+- The outer grate ring is best treated as a holding, finishing, or cooler zone.
+- Cook fewer pieces at once and leave air gaps between them.
+- Flatten boneless thighs before placing them on the grate.
+- Sort or group pieces by thickness because cuts from the same package can vary dramatically.
+- Establish a fully active coal bed and a higher starting temperature before loading a crowded direct cook.
+- Use the hot center deliberately and rotate food through it rather than spreading all pieces evenly across the grate.
+- The cooker is capable of stable low-temperature operation; direct grilling is secondary because a propane grill and Blackstone are already available nearby.
+
+## Primary Outcome
+
+The most important success was confirming that Egg can settle into and hold a practical smoking temperature near 290°F with a nearly closed bottom vent and partially open top daisy wheel.
+
+The next priority is a custom heat-deflector system. Once installed, Egg's main role will be smoking and indirect cooking rather than replacing the nearby propane grill or Blackstone for routine direct grilling.
+
+## Pending Work
+
+- Build and test Heat Deflector v1
+- Repeat IR profile with the deflector installed
+- Test smoking airflow and temperature recovery with food loaded
+- Record smoke leakage observations
+- Record shutdown time
+- Inspect remaining reusable charcoal
+- Perform post-test ceramic and gasket inspection
