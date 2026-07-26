@@ -61,15 +61,19 @@ Tender pork shoulder finished in a spicy-sweet Korean-inspired gochujang sauce, 
 
 ### Vegetables
 
-Use approximately 6 cups total. A mixture of the following works well:
+This mixture is designed to cook evenly and work with either rice or noodles:
 
-- 1/2 small cabbage, thinly sliced
-- 1 large broccoli crown, cut into small florets; peel and slice the stalk if using
-- 1 bell pepper, thinly sliced
-- 1 medium carrot, cut into thin matchsticks or coins
+- 1 medium carrot, cut into thin matchsticks
 - 8 ounces mushrooms, sliced
+- 1 bell pepper, thinly sliced
+- 4 cups thinly sliced cabbage
 - 1 tablespoon neutral cooking oil
 - 1 to 2 tablespoons soy sauce, to taste
+
+Optional substitutions:
+
+- Replace up to half the cabbage with small broccoli florets and thinly sliced peeled broccoli stalk
+- Replace the bell pepper with bok choy, snap peas, or another quick-cooking vegetable
 
 ### Garnish
 
@@ -102,11 +106,13 @@ Use approximately 6 cups total. A mixture of the following works well:
     - **Rice:** Cook according to the package or rice-cooker instructions. Serve the pork and vegetables over the rice.
     - **Sweet potato noodles:** Cook according to the package instructions, usually by boiling for 6 to 8 minutes. Drain, rinse briefly under cool water, and toss with 1 teaspoon sesame oil. Cut the noodles several times with kitchen shears if they are difficult to serve.
 
-11. **Cook the vegetables.** Heat a large skillet or wok over medium-high heat. Add 1 tablespoon neutral oil. Cook firm vegetables such as carrots and broccoli first, followed by mushrooms, cabbage, and bell pepper. Keep the vegetables slightly crisp. Season lightly with soy sauce.
+11. **Cook the vegetables in stages.** Heat a large skillet or wok over medium-high heat. Add 1 tablespoon neutral oil. Add the carrot and mushrooms and cook for 3 to 4 minutes, stirring occasionally, until the mushrooms begin to brown and the carrot starts to soften. Add the bell pepper and cook for 1 minute. Add the cabbage and 1 tablespoon soy sauce, then toss for another 2 to 3 minutes until the cabbage is wilted but still has some bite. Taste and add the remaining soy sauce only if needed.
+
+    If using broccoli, add it with the carrots and mushrooms. Add 2 tablespoons water, cover for 1 to 2 minutes to steam, then uncover before adding the remaining vegetables.
 
 12. **Assemble.**
     - **With rice:** Divide rice among bowls and top with vegetables, gochujang pork, green onions, and sesame seeds.
-    - **With noodles:** Add the cooked noodles to the vegetables. Add enough pork and sauce to coat everything without flooding the pan. Toss over medium heat for 1 to 2 minutes, then garnish.
+    - **With noodles:** Add the cooked noodles to the skillet with the vegetables. Add enough pork and sauce to coat everything without flooding the pan. Toss over medium heat for 1 to 2 minutes, then garnish.
 
 13. **Optional crisp finish.** Spread some sauced pork on a sheet pan and broil for 2 to 4 minutes until the edges darken and crisp. Watch closely because gochujang and sugar can burn quickly.
 
