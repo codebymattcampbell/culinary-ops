@@ -24,6 +24,14 @@ In progress
 - Planned wood load: about 6-8 small pecan pieces + 2 larger hickory pieces
 - No commercial rub, specifically to keep the smoke flavor easy to evaluate
 
+## Photos
+
+Raw brisket point before cooking:
+
+![Raw brisket point - view 1](photos/brisket-raw-1.jpg)
+
+![Raw brisket point - view 2](photos/brisket-raw-2.jpg)
+
 ## Fire / Setup
 1. Light lump charcoal and establish a small fire.
 2. Add smoking wood around/near the lit area.
