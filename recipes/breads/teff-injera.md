@@ -1,10 +1,10 @@
 # Teff Injera
 
-A teff-forward fermented injera designed for a home skillet. A small amount of instant yeast provides reliable fermentation, while an absit step improves structure and eye formation.
+A teff-forward fermented injera designed for a home skillet. This recipe is still being developed: V1 was enjoyable but too dense, insufficiently sour, and did not develop the larger open eyes expected from good injera.
 
 ## Status
 
-**Tested**
+**Experimental**
 
 ## Yield
 
@@ -19,52 +19,70 @@ A teff-forward fermented injera designed for a home skillet. A small amount of i
 
 ### Absit and Finishing
 - 1/2 cup fermented batter
-- 1/2 cup water, plus 2-3 tbsp if needed to loosen the cooked absit
+- 1/2 cup water, plus a little more if the absit becomes excessively stiff
 - 1/2 tsp kosher salt
-- Additional water for final batter adjustment, as needed; 1 tbsp was helpful in the tested batch
+- Additional water for final batter adjustment, as needed
 
 ## Method
 
 1. Whisk the teff flour, 475 g lukewarm water, and instant yeast until smooth.
-2. Cover loosely and ferment at room temperature for about 24 hours. Do not stir during fermentation. Separation is normal.
-3. When actively bubbly, pleasantly sour-smelling, and showing signs of having risen and fallen, stir the entire batter thoroughly to recombine the liquid and sediment.
+2. Cover loosely and ferment at room temperature. V1 fermented about 24 hours and was not sour enough. **For V2, target 48 hours.** Do not stir during fermentation; separation is normal.
+3. When fermentation is complete, stir the entire batter thoroughly to recombine the liquid and teff sediment.
 4. Measure 1/2 cup of the mixed batter into a small saucepan and whisk in 1/2 cup water.
-5. Cook over medium-low heat, whisking constantly, until thick, glossy, and pudding-like. Remove from heat as soon as the starch is fully gelatinized. If it becomes a very stiff paste, whisk in 2-3 tbsp water while hot to loosen it.
-6. Cool the absit 5-10 minutes, until warm rather than hot. It may set into a soft, jiggly gel as it cools; this is normal.
-7. Add 1/2 tsp kosher salt to the main batter. Whisk the absit back into the main batter until smooth.
-8. Cover loosely and rest 30-60 minutes.
-9. Gently stir the batter. It should pour easily, around heavy-cream to thin-pancake-batter consistency. If too thick, add water 1 tbsp at a time. The tested batch improved after 1 tbsp additional water.
-10. Preheat a 12-inch nonstick skillet over medium heat, then reduce slightly below medium if the surface dries before the center sets. Do not oil a good nonstick pan.
-11. Pour about 1/2-2/3 cup batter in a loose spiral, working from the outside toward the center. Do not spread with a spatula.
-12. Cook uncovered while the characteristic eyes form and the surface changes from shiny-wet toward matte, roughly 1-2 minutes.
-13. When mostly set, cover the skillet for about 30-60 seconds to steam the top. Do not flip.
-14. Remove when the entire top is set, the center is no longer gooey, and the edges release. If the center remains wet, continue covered in short increments rather than increasing the heat aggressively.
-15. Cool each injera separately for a minute or two before stacking. Loosely cover cooled injera with a clean towel to keep them flexible.
+5. Make the absit: cook over medium-low heat, whisking constantly. **Stop when it reaches a smooth, thick pudding consistency. Do not wait for it to become translucent or clear. Teff may remain visibly opaque.** The mixture should be fully thickened and glossy but not cooked into a dry, stiff paste.
+6. Remove the absit from the heat immediately. If it accidentally becomes very stiff, whisk in a small amount of water while hot until it returns to a thick pudding consistency.
+7. Cool 5-10 minutes until warm rather than hot. It may set into a soft, jiggly gel while cooling; this is normal.
+8. Add 1/2 tsp kosher salt to the main batter and whisk the warm absit back in until smooth.
+9. Cover loosely and rest 30-60 minutes.
+10. Gently stir the batter. It should pour easily. V1 improved after 1 tbsp additional water, so adjust with water 1 tbsp at a time if the batter pours too thickly.
+11. Preheat a 12-inch nonstick skillet. V1 produced more and larger holes only after the pan heat was increased substantially, so V2 should test a hotter pan from the beginning rather than medium/medium-low heat.
+12. Pour about 1/2-2/3 cup batter in a loose spiral from the outside toward the center. Do not spread with a spatula.
+13. Cook uncovered while eyes form and the surface begins to set.
+14. Cover to steam the top once the surface has developed eyes and is mostly set. Do not flip.
+15. Remove when the center is fully cooked, the top is set, and the edges release.
+16. Cool separately for a minute or two before stacking.
 
 ## Quality Targets
 
-- Numerous open eyes across the surface
+- Noticeably sour fermented flavor
+- Larger, well-defined open eyes rather than primarily pinprick bubbles
+- Light, porous, spongy interior rather than dense pancake texture
 - Fully cooked, non-gooey center
-- Soft and flexible rather than dry or brittle
-- Pleasantly sour, earthy flavor
-- Minimal browning on the underside
+- Soft and flexible after cooling
 
-## Notes
+## V1 Findings — 20 Sep 2026
 
-- The first 20 Sep 2026 test injera was too thick and developed a dry/cracked surface while remaining gooey in the middle.
-- Adding 1 tbsp water to the remaining batter produced a more even round with substantially better eye formation.
-- The successful adjustment was thinner batter plus adequate covered steaming, not higher heat.
-- The first injera should be treated as a calibration piece for pan temperature, batter thickness, and steaming time.
-- No oil was needed in the tested nonstick skillet.
+- Fermentation: about 24 hours.
+- Sourness: essentially absent.
+- Flavor/texture was described as a **"wheat, savory pancake"** rather than recognizably sour injera.
+- Batter fermented visibly and produced bubbles, but finished injera was relatively dense.
+- Most eyes were small/pinprick-sized rather than large, open holes.
+- The first injera was too thick and developed a dry/cracked surface while remaining gooey in the middle.
+- Adding 1 tbsp water improved batter flow and produced a more even injera.
+- Increasing pan heat substantially, eventually all the way up during experimentation, produced noticeably better hole formation.
+- Absit instructions were confusing: "pudding consistency" was understandable, but waiting for "translucent" led to overcooking because the teff mixture continued to appear opaque.
+- V1 was good and well received as food, but did **not** meet the intended injera quality targets.
+
+## V2 Plan
+
+- Ferment for a full 48 hours to target substantially more sourness.
+- Keep the base teff/water/yeast formula unchanged so fermentation time remains the primary fermentation variable.
+- Repeat the absit, but stop strictly at thick pudding consistency; do not use translucency as a doneness cue.
+- Start with a hotter skillet based on V1's improved eye formation at high heat.
+- Adjust final batter with water in 1 tbsp increments as needed.
+- Evaluate sourness, eye size, porosity/sponginess, flexibility, and center doneness.
 
 ## Variables to Record
 
-- Fermentation time and room temperature
+- Fermentation time
+- Aroma and sourness before cooking
 - Teff brand
+- Absit texture at removal from heat
 - Final water adjustment
 - Batter volume per injera
-- Pan temperature
+- Pan heat setting
 - Uncovered and covered cooking times
-- Eye formation
+- Eye size and distribution
+- Internal porosity
 - Center texture
 - Flexibility after cooling
