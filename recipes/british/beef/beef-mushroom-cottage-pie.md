@@ -4,7 +4,7 @@ A practical oven dinner for ground beef, mushrooms, small potatoes, and optional
 
 ## Status
 
-**Experimental** — planned recipe, not yet cooked and adjusted.
+**Experimental** — first cook in progress; final tasting pending.
 
 ## Yield
 
@@ -61,3 +61,7 @@ A practical oven dinner for ground beef, mushrooms, small potatoes, and optional
 - Actual weight of potatoes and mushrooms; whether the topping covered the dish.
 - Broth saltiness and final seasoning.
 - Filling thickness before baking and moisture after resting.
+
+## Cook History
+
+Before remaking, review the [cook history](../../../experiments/beef/beef-mushroom-cottage-pie/README.md) and [v1 notes](../../../experiments/beef/beef-mushroom-cottage-pie/2026-09-26-v1.md).
