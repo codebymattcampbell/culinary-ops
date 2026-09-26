@@ -123,4 +123,4 @@ The target dough is soft, smooth, elastic, slightly tacky, and cohesive.
 ## Related
 
 - [Bread Machine](../../equipment/bread-machine.md)
-- [Japanese Milk Bread Experiments](../../experiments/breads/japanese-milk-bread/v1.md)
+- [Japanese Milk Bread Experiments](../../experiments/breads/japanese-milk-bread/README.md)
