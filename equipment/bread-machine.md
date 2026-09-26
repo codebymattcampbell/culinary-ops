@@ -13,7 +13,7 @@ A countertop appliance that mixes, kneads, proofs, and bakes bread in a removabl
 
 ## Capabilities
 
-Capabilities vary by model but commonly include loaf-size settings, crust settings, delayed starts, dough-only cycles, and specialized bread programs.
+Capabilities vary by model but commonly include crust settings, delayed starts, dough-only cycles, and specialized bread programs.
 
 ## Limitations
 
@@ -36,17 +36,29 @@ Capabilities vary by model but commonly include loaf-size settings, crust settin
 - Dry the pan and paddles completely before storage.
 - Check paddle shafts and seals for residue or wear.
 
-## Our Equipment Notes
+## Bread Machine (Zojirushi BB-PDC20)
 
-### Model
-
-Zojirushi BB-PDC20.
+This is the bread machine used for Culinary Ops bread-machine recipes and experiments.
 
 ### Known Behavior
 
-- Recipe loading order and cycle selection should be recorded in each recipe.
-- Crust color, loaf height, paddle holes, and dough corrections should be tracked during testing.
+- Use both kneading paddles unless a recipe specifically says otherwise.
+- Recipe loading order and cycle selection are recorded in each recipe.
+- The machine may rest quietly before kneading begins; this is normal.
+- Crust color, loaf height, paddle holes, dough corrections, and crumb should be tracked during testing.
+- Small hydration changes can materially affect rise and finished loaf structure.
+
+### Current Recipes
+
+- [Bread Machine White Bread](../recipes/breads/bread-machine-white-bread.md) — **Experimental**; water-based baseline.
+- [Japanese Milk Bread (Shokupan)](../recipes/breads/japanese-milk-bread.md) — **Tested**; tangzhong-based enriched loaf.
+
+### Experiment History
+
+- [Bread Machine White Bread Experiments](../experiments/breads/bread-machine-white-bread/README.md)
+- [Japanese Milk Bread Experiments](../experiments/breads/japanese-milk-bread/README.md)
 
 ### Lessons Learned
 
-Add observations here as the machine is used.
+- Keep the original formula intact during a baseline cook; evaluate the finished loaf before changing hydration or dairy.
+- For Japanese milk bread, Course **1 — Basic White** with **Light** crust produced a successful loaf in the first recorded experiment.
