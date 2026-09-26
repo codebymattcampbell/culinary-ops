@@ -40,7 +40,7 @@ Their emphasis on heat transfer, measurement, experimentation, and scientific re
 
 ```text
 recipes/
-    The current best-known version of each dish, organized by cuisine, then protein or main component.
+    The current best-known version of each dish, organized by cuisine, then protein or main component, with shared Sauces and Vegetables sections.
 
 experiments/
     Notes and results from individual cooks and planned tests.
@@ -61,7 +61,7 @@ templates/
     Consistent starting points for recipes, experiments, equipment guides, and meals.
 ```
 
-Browse the [recipe index](recipes/README.md) for cuisines and recipes awaiting a cuisine decision.
+Browse the [recipe index](recipes/README.md) for cuisines and shared categories.
 
 ## How the Pieces Work Together
 

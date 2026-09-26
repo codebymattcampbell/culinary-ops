@@ -104,6 +104,6 @@ Use this section while the recipe is still experimental.
 
 ## Related Information
 
-- Experiments: [Peri-Peri Spatchcock Chicken v1](../../experiments/chicken/peri-peri-spatchcock/v1.md)
+- Experiments: [Peri-Peri Spatchcock Chicken v1](../../../experiments/chicken/peri-peri-spatchcock/v1.md)
 - Techniques: Spatchcocking, dry brining, hot indirect kamado cooking
 - Equipment guides: Small ceramic Egg / kamado

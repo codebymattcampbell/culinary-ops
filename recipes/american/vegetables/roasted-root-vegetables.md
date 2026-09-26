@@ -173,16 +173,16 @@ Avoid microwaving when possible, as it softens the caramelized exterior.
 
 ### Sauces
 
-- [Beef Jus](../sauces/beef-jus.md)
-- [Horseradish Cream](../sauces/horseradish-cream.md)
+- [Beef Jus](../../sauces/beef-jus.md)
+- [Horseradish Cream](../../sauces/horseradish-cream.md)
 
 ### Breads
 
-- [Yorkshire Pudding](../british/breads/yorkshire-pudding.md)
+- [Yorkshire Pudding](../../british/breads/yorkshire-pudding.md)
 
 ### Salads
 
-- [Georgian Herb & Walnut Salad](../georgian/salads/georgian-herb-walnut-salad.md)
+- [Georgian Herb & Walnut Salad](../../georgian/salads/georgian-herb-walnut-salad.md)
 
 ---
 

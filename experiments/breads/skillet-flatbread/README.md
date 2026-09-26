@@ -2,7 +2,7 @@
 
 ## Current Recipe
 
-See `recipes/breads/skillet-flatbread.md`.
+See `recipes/american/breads/skillet-flatbread.md`.
 
 ## Objective
 

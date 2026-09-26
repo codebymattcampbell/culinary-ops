@@ -3,7 +3,7 @@
 ## Metadata
 
 - Date: Planned for week of 2026-07-05
-- Related Recipe: `recipes/breads/skillet-flatbread.md`
+- Related Recipe: `recipes/american/breads/skillet-flatbread.md`
 - Status: Planned
 - Cook Version: v1
 

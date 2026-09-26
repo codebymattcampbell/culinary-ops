@@ -139,7 +139,7 @@ Before Serving
 
 ### Proteins
 
-- [Sous Vide Chuck Roast](../beef/sous-vide-chuck-roast.md)
+- [Sous Vide Chuck Roast](../american/beef/sous-vide-chuck-roast.md)
 
 ### Sauces
 
@@ -147,7 +147,7 @@ Before Serving
 
 ### Vegetables
 
-- [Roasted Root Vegetables](../vegetables/roasted-root-vegetables.md)
+- [Roasted Root Vegetables](../american/vegetables/roasted-root-vegetables.md)
 
 ### Breads
 

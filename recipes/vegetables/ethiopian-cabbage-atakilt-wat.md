@@ -13,7 +13,7 @@ Approximately 6 servings.
 ## Required Equipment
 
 - Dutch oven or large sauté pan
-- [Stovetop](../../../equipment/stovetop.md)
+- [Stovetop](../../equipment/stovetop.md)
 - Cutting board
 - Chef's knife
 

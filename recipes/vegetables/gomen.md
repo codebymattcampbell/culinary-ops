@@ -1,4 +1,4 @@
-# Gomen
+# Ethiopian Gomen
 
 Ethiopian-style collard greens cooked with onion, garlic, ginger, warm spices, butter, and lemon. Designed as a mild, savory counterpoint to spicy Doro Wat.
 

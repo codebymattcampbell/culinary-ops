@@ -1,71 +1,80 @@
 # Recipes
 
-Browse by **cuisine → protein or main component → recipe**. Folder names use lowercase and hyphens. Existing subcategories, such as bread-machine breads, are retained.
+Browse most dishes by **cuisine → protein or main component → recipe**. **Sauces** and **Vegetables** are shared categories alongside the cuisines. Folder names use lowercase and hyphens; existing subcategories such as `breads/bread-machine/` are retained.
 
-Cuisine labels describe the dish or its stated culinary influence, including adapted recipes. If a cuisine is unclear, ask Matt before assigning it. Only Matt decides whether a recipe belongs under International.
+Cuisine labels are browsing choices for this cookbook, including adapted recipes, rather than strict claims of origin. Matt selected American for the chuck roast, peri-peri chicken, white bread, skillet flatbread, avocado tomato salad, tomato cucumber salad, and roasted root vegetables. Asian groups both egg-roll bowls.
 
-## Browse by Cuisine
+Shared vegetable recipes include their established cuisine in the recipe title where useful. Roasted root vegetables remain under American by Matt's choice. Sauces stay together because they can accompany multiple cuisines.
 
-### British
+Ask Matt about uncertain classifications or cuisine-specific renaming. Only Matt decides whether a recipe belongs under International. Garlic-Lime Tostones retains its existing name pending his choice; no Cuban attribution has been assigned.
+
+## American
+
+- [Sous Vide Chuck Roast](american/beef/sous-vide-chuck-roast.md)
+- [Bread Machine White Bread](american/breads/bread-machine/bread-machine-white-bread.md)
+- [Skillet Flatbread](american/breads/skillet-flatbread.md)
+- [Peri-Peri Spatchcock Chicken](american/chicken/peri-peri-spatchcock-chicken.md)
+- [Avocado Tomato Salad](american/salads/avocado-tomato-salad.md)
+- [Tomato Cucumber Salad](american/salads/tomato-cucumber-salad.md)
+- [Roasted Root Vegetables](american/vegetables/roasted-root-vegetables.md)
+
+## Asian
+
+- [Egg Roll in a Bowl](asian/pork/egg-roll-in-a-bowl.md)
+- [Cabbage Egg Roll Bowl](asian/vegetables/cabbage-egg-roll-bowl.md)
+
+## British
 
 - [Beef and Mushroom Cottage Pie](british/beef/beef-mushroom-cottage-pie.md)
 - [Yorkshire Pudding](british/breads/yorkshire-pudding.md)
 
-### East African
+## East African
 
 - [East African-Spiced Braised Lamb](east-african/lamb/east-african-spiced-braised-lamb.md)
 
-### Ethiopian
+## Ethiopian
 
-- [Doro Wat](ethiopian/chicken/doro-wat.md)
 - [Teff Injera](ethiopian/breads/teff-injera.md)
-- [Ethiopian Cabbage (Atakilt Wat)](ethiopian/vegetables/ethiopian-cabbage-atakilt-wat.md)
-- [Gomen](ethiopian/vegetables/gomen.md)
+- [Doro Wat](ethiopian/chicken/doro-wat.md)
 
-### Georgian
+## Georgian
 
 - [Georgian Herb & Walnut Salad](georgian/salads/georgian-herb-walnut-salad.md)
 
-### Jamaican
+## Jamaican
 
 - [Jamaican Jerk Smoked-Braised Short Ribs](jamaican/beef/jamaican-jerk-smoked-braised-short-ribs.md)
 - [Jamaican Jerk Pork Spareribs](jamaican/pork/jamaican-jerk-pork-spareribs.md)
 - [Jamaican Rice and Peas](jamaican/rice/jamaican-rice-and-peas.md)
-- [Jamaican-Style Collard Greens](jamaican/vegetables/jamaican-style-collard-greens.md)
 
-### Japanese
+## Japanese
 
 - [Japanese Milk Bread (Shokupan)](japanese/breads/bread-machine/japanese-milk-bread.md)
 
-### Korean
+## Korean
 
 - [Instant Pot Gochujang Pork](korean/pork/gochujang-pork.md)
 
-### Mexican
+## Mexican
 
 - [Chipotle-Adobo Smoked-Braised Pork](mexican/pork/chipotle-adobo-smoked-braised-pork.md)
 - [Mexican-Style Pigeon Pea Rice](mexican/rice/mexican-style-pigeon-pea-rice.md)
 
-### Turkish
+## Sauces
 
-- [Turkish-Style Ground Turkey and Cabbage Skillet](turkish/turkey/turkish-style-ground-turkey-cabbage-skillet.md)
-
-## Awaiting Cuisine Decision
-
-These recipes remain in their existing locations until Matt chooses their cuisine. They have not been assigned to International.
-
-- [Sous Vide Chuck Roast](beef/sous-vide-chuck-roast.md)
-- [Bread Machine White Bread](breads/bread-machine/bread-machine-white-bread.md)
-- [Skillet Flatbread](breads/skillet-flatbread.md)
-- [Cabbage Egg Roll Bowl](cabbage-egg-roll-bowl.md)
-- [Peri-Peri Spatchcock Chicken](chicken/peri-peri-spatchcock-chicken.md)
-- [Egg Roll in a Bowl](pork/egg-roll-in-a-bowl.md)
-- [Avocado Tomato Salad](salads/avocado-tomato-salad.md)
-- [Tomato Cucumber Salad](salads/tomato-cucumber-salad.md)
 - [Beef Jus](sauces/beef-jus.md)
 - [Horseradish Cream](sauces/horseradish-cream.md)
 - [Lemon Herb Yogurt](sauces/lemon-herb-yogurt.md)
 - [Pineapple-Mango Salsa](sauces/pineapple-mango-salsa.md)
+
+## Turkish
+
+- [Turkish-Style Ground Turkey and Cabbage Skillet](turkish/turkey/turkish-style-ground-turkey-cabbage-skillet.md)
+
+## Vegetables
+
 - [Cumin-Paprika Roasted Carrots](vegetables/cumin-paprika-roasted-carrots.md)
-- [Roasted Root Vegetables](vegetables/roasted-root-vegetables.md)
+- [Ethiopian Cabbage (Atakilt Wat)](vegetables/ethiopian-cabbage-atakilt-wat.md)
+- [Ethiopian Gomen](vegetables/gomen.md)
+- [Jamaican-Style Collard Greens](vegetables/jamaican-style-collard-greens.md)
 - [Garlic-Lime Tostones](vegetables/tostones-garlic-lime.md)

@@ -20,7 +20,9 @@ Store recipes under `recipes/<cuisine>/<protein-or-main-component>/<recipe>.md` 
 
 For example: `recipes/british/beef/beef-mushroom-cottage-pie.md`.
 
-Use a clear cuisine or the recipe's stated culinary influence. Ask Matt when the classification is uncertain. Do not use International without his decision. Recipes awaiting that decision stay in their existing locations and are listed in the [recipe index](recipes/README.md).
+Use a clear cuisine, the recipe's stated culinary influence, or Matt's chosen browsing category. Ask Matt when the classification is uncertain. Do not use International without his decision.
+
+Exceptions: keep sauces together under `recipes/sauces/` and shared vegetable sides under `recipes/vegetables/`. Include established cuisine in vegetable recipe titles when useful; ask before adding uncertain attributions. Roasted root vegetables remain under American as explicitly selected by Matt. Both egg-roll bowls use Asian. The [recipe index](recipes/README.md) records the current organization.
 
 ## Experiment History
 

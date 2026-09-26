@@ -1,6 +1,6 @@
 # Bread Machine White Bread Experiments
 
-Experiment history for [Bread Machine White Bread](../../../recipes/breads/bread-machine/bread-machine-white-bread.md) on the **Zojirushi BB-PDC20**.
+Experiment history for [Bread Machine White Bread](../../../recipes/american/breads/bread-machine/bread-machine-white-bread.md) on the **Zojirushi BB-PDC20**.
 
 ## Current Status
 
