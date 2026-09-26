@@ -21,6 +21,8 @@ A practical oven dinner for ground beef, mushrooms, small potatoes, and frozen b
 - 2 lb lean ground beef, thawed
 - About 8 small yellow or red potatoes (roughly 1½–2 lb), cut into 1-inch chunks
 - 1 onion, diced
+- 2–3 medium carrots, cut into ¼-inch dice, optional
+- 1 tbsp cooking oil, if using carrots
 - 8–12 oz mushrooms, sliced, or however many are on hand
 - 10 oz frozen broccoli
 - 2 tbsp all-purpose flour
@@ -36,7 +38,7 @@ A practical oven dinner for ground beef, mushrooms, small potatoes, and frozen b
 ## Method
 
 1. Heat the oven to **400°F**. Put the potatoes in a pot, cover with cold water, salt the water, and boil until easily pierced with a fork, about **12–18 minutes** after the water reaches a boil.
-2. While the potatoes cook, brown the beef and onion in a large skillet over medium-high heat, breaking up the meat. If the skillet is crowded, brown the beef in two batches. Pour off excess fat, leaving about 1 tbsp in the pan.
+2. If using carrots, heat the oil in a large skillet over medium heat and sauté the carrots with the onion for **5–7 minutes**, then increase to medium-high and add the beef. Without carrots, brown the beef and onion in a large skillet over medium-high heat, breaking up the meat. If the skillet is crowded, brown the beef in two batches. Pour off excess fat, leaving about 1 tbsp in the pan.
 3. Add the mushrooms. Cook until their released liquid has mostly evaporated. Season with the garlic powder, thyme if using, and black pepper. Start with **1 tsp salt** if using unsalted broth, or less if using salted broth or bouillon.
 4. Sprinkle the flour over the filling and stir for **1 minute**. Gradually stir in the broth and Worcestershire if using. Simmer **3–5 minutes**, until the filling is moist and thickened, with no watery pool at the bottom. Taste and adjust salt and pepper.
 5. Thaw the broccoli in the microwave or briefly in simmering water; drain it thoroughly. Chop any large florets and stir into the beef filling.
