@@ -11,7 +11,7 @@
 
 - [Jamaican Jerk Smoked-Braised Short Ribs](../../recipes/jamaican/beef/jamaican-jerk-smoked-braised-short-ribs.md)
 - [Jamaican Rice and Peas](../../recipes/jamaican/rice/jamaican-rice-and-peas.md)
-- [Jamaican-Style Collard Greens](../../recipes/vegetables/jamaican-style-collard-greens.md)
+- [Jamaican-Style Collard Greens](../../recipes/jamaican/vegetables/jamaican-style-collard-greens.md)
 - [Garlic-Lime Tostones](../../recipes/vegetables/tostones-garlic-lime.md)
 - [Pineapple-Mango Salsa](../../recipes/sauces/pineapple-mango-salsa.md)
 

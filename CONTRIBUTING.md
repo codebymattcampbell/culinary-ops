@@ -22,7 +22,7 @@ For example: `recipes/british/beef/beef-mushroom-cottage-pie.md`.
 
 Use a clear cuisine, the recipe's stated culinary influence, or Matt's chosen browsing category. Ask Matt when the classification is uncertain. Do not use International without his decision.
 
-Exceptions: keep sauces together under `recipes/sauces/` and shared vegetable sides under `recipes/vegetables/`. Include established cuisine in vegetable recipe titles when useful; ask before adding uncertain attributions. Roasted root vegetables remain under American as explicitly selected by Matt. Both egg-roll bowls use Asian. The [recipe index](recipes/README.md) records the current organization.
+Keep sauces together under `recipes/sauces/`. Vegetable recipes with an assigned cuisine belong under `recipes/<cuisine>/vegetables/`; recipes without a chosen cuisine stay directly under `recipes/vegetables/`. Maintain [the Vegetables index](recipes/vegetables/README.md) with links to all vegetable recipes, including those filed under cuisines. Never copy recipe content into the index. Update both indexes when adding or moving a vegetable recipe. Include established cuisine in vegetable recipe titles when useful; ask before adding uncertain attributions. Roasted root vegetables remain under American as explicitly selected by Matt. Both egg-roll bowls use Asian. The [recipe index](recipes/README.md) records the current organization.
 
 ## Experiment History
 

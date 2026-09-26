@@ -1,12 +1,12 @@
 # Recipes
 
-Browse most dishes by **cuisine → protein or main component → recipe**. **Sauces** and **Vegetables** are shared categories alongside the cuisines. Folder names use lowercase and hyphens; existing subcategories such as `breads/bread-machine/` are retained.
+Browse most dishes by **cuisine → protein or main component → recipe**. **Sauces** stay together, and the [Vegetables index](vegetables/README.md) provides another way to browse recipes across cuisines. Folder names use lowercase and hyphens; existing subcategories such as `breads/bread-machine/` are retained.
 
 Cuisine labels are browsing choices for this cookbook, including adapted recipes, rather than strict claims of origin. Matt selected American for the chuck roast, peri-peri chicken, white bread, skillet flatbread, avocado tomato salad, tomato cucumber salad, and roasted root vegetables. Asian groups both egg-roll bowls.
 
-Shared vegetable recipes include their established cuisine in the recipe title where useful. Roasted root vegetables remain under American by Matt's choice. Sauces stay together because they can accompany multiple cuisines.
+Vegetable recipes with an assigned cuisine live under that cuisine. The Vegetables index links to their single canonical files, while vegetables without a chosen cuisine remain directly under `vegetables/`. Roasted root vegetables remain under American by Matt's choice. Sauces stay together because they can accompany multiple cuisines.
 
-Ask Matt about uncertain classifications or cuisine-specific renaming. Only Matt decides whether a recipe belongs under International. Garlic-Lime Tostones retains its existing name pending his choice; no Cuban attribution has been assigned.
+Ask Matt about uncertain classifications or cuisine-specific renaming. Only Matt decides whether a recipe belongs under International. Garlic-Lime Tostones keeps its existing name as Matt requested; no Cuban attribution has been assigned.
 
 ## American
 
@@ -36,6 +36,8 @@ Ask Matt about uncertain classifications or cuisine-specific renaming. Only Matt
 
 - [Teff Injera](ethiopian/breads/teff-injera.md)
 - [Doro Wat](ethiopian/chicken/doro-wat.md)
+- [Ethiopian Cabbage (Atakilt Wat)](ethiopian/vegetables/ethiopian-cabbage-atakilt-wat.md)
+- [Ethiopian Gomen](ethiopian/vegetables/gomen.md)
 
 ## Georgian
 
@@ -46,6 +48,7 @@ Ask Matt about uncertain classifications or cuisine-specific renaming. Only Matt
 - [Jamaican Jerk Smoked-Braised Short Ribs](jamaican/beef/jamaican-jerk-smoked-braised-short-ribs.md)
 - [Jamaican Jerk Pork Spareribs](jamaican/pork/jamaican-jerk-pork-spareribs.md)
 - [Jamaican Rice and Peas](jamaican/rice/jamaican-rice-and-peas.md)
+- [Jamaican-Style Collard Greens](jamaican/vegetables/jamaican-style-collard-greens.md)
 
 ## Japanese
 
@@ -73,8 +76,9 @@ Ask Matt about uncertain classifications or cuisine-specific renaming. Only Matt
 
 ## Vegetables
 
+[Browse all vegetable recipes by cuisine](vegetables/README.md). Each link opens the original recipe; no recipe copies are maintained.
+
+Recipes without a chosen cuisine:
+
 - [Cumin-Paprika Roasted Carrots](vegetables/cumin-paprika-roasted-carrots.md)
-- [Ethiopian Cabbage (Atakilt Wat)](vegetables/ethiopian-cabbage-atakilt-wat.md)
-- [Ethiopian Gomen](vegetables/gomen.md)
-- [Jamaican-Style Collard Greens](vegetables/jamaican-style-collard-greens.md)
 - [Garlic-Lime Tostones](vegetables/tostones-garlic-lime.md)
