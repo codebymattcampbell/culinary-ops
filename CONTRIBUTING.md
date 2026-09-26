@@ -14,21 +14,21 @@ This repository is designed to remain understandable to cooks who have no softwa
 
 Do not duplicate a recipe under an equipment folder or collection. Link to its canonical location instead.
 
-## Repository Symmetry
+## Recipe Organization
 
-When practical, `experiments/` mirrors the category structure used by `recipes/`.
+Store recipes under `recipes/<cuisine>/<protein-or-main-component>/<recipe>.md` using lowercase, hyphenated names. Retain existing subcategories when useful, such as `breads/bread-machine/`.
 
-A recipe at:
+For example: `recipes/british/beef/beef-mushroom-cottage-pie.md`.
 
-```text
-recipes/breads/skillet-flatbread.md
-```
+Use a clear cuisine or the recipe's stated culinary influence. Ask Matt when the classification is uncertain. Do not use International without his decision. Recipes awaiting that decision stay in their existing locations and are listed in the [recipe index](recipes/README.md).
 
-has its experiment history at:
+## Experiment History
 
-```text
-experiments/breads/skillet-flatbread/
-```
+Experiments retain their existing food-category organization, without a cuisine level. Moving a recipe must not move or duplicate its cook history. Update relative links in recipes, experiments, equipment guides, collections, and meals whenever a recipe moves.
+
+For example, `recipes/ethiopian/breads/teff-injera.md` keeps its history at `experiments/breads/teff-injera/`.
+
+The synchronization script uses an existing experiment link when present; otherwise it omits the cuisine level and reuses an existing category/recipe history before creating a new skeleton.
 
 Each recipe-specific experiment directory should contain a `README.md` summary and dated experiment files named:
 

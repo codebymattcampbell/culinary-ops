@@ -178,11 +178,11 @@ Avoid microwaving when possible, as it softens the caramelized exterior.
 
 ### Breads
 
-- [Yorkshire Pudding](../breads/yorkshire-pudding.md)
+- [Yorkshire Pudding](../british/breads/yorkshire-pudding.md)
 
 ### Salads
 
-- [Georgian Herb & Walnut Salad](../salads/georgian-herb-walnut-salad.md)
+- [Georgian Herb & Walnut Salad](../georgian/salads/georgian-herb-walnut-salad.md)
 
 ---
 

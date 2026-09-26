@@ -12,7 +12,7 @@ A soft, enriched milk bread made in the **Zojirushi BB-PDC20** using tangzhong f
 
 ## Required Equipment
 
-- [Bread machine](../../../equipment/bread-machine.md) — tested with the Zojirushi BB-PDC20
+- [Bread machine](../../../../equipment/bread-machine.md) — tested with the Zojirushi BB-PDC20
 - Small saucepan
 - Whisk or silicone spatula
 - Digital scale
@@ -122,5 +122,5 @@ The target dough is soft, smooth, elastic, slightly tacky, and cohesive.
 
 ## Related
 
-- [Bread Machine](../../../equipment/bread-machine.md)
-- [Japanese Milk Bread Experiments](../../../experiments/breads/japanese-milk-bread/README.md)
+- [Bread Machine](../../../../equipment/bread-machine.md)
+- [Japanese Milk Bread Experiments](../../../../experiments/breads/japanese-milk-bread/README.md)

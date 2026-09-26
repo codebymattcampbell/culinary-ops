@@ -13,7 +13,7 @@ A practical oven dinner for ground beef, mushrooms, small potatoes, and optional
 
 ## Required Equipment
 
-- [Oven](../../equipment/oven.md)
+- [Oven](../../../equipment/oven.md)
 - Large skillet, pot, potato masher, and 9 × 13-inch baking dish
 
 ## Ingredients

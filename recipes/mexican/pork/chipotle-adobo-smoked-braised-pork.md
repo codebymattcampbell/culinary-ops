@@ -13,8 +13,8 @@ Boneless pork shoulder country-style ribs lightly smoked on the Egg, then braise
 
 ## Required Equipment
 
-- [Egg](../../equipment/egg.md)
-- [Oven](../../equipment/oven.md)
+- [Egg](../../../equipment/egg.md)
+- [Oven](../../../equipment/oven.md)
 - Heavy Dutch oven with lid
 - Instant-read thermometer or probe thermometer
 
@@ -78,5 +78,5 @@ Boneless pork shoulder country-style ribs lightly smoked on the Egg, then braise
 
 ## Related Information
 
-- Equipment: [Egg](../../equipment/egg.md), [Oven](../../equipment/oven.md)
-- Meal: [Chipotle-Adobo Pork Dinner](../../meals/2026/2026-09-23-chipotle-adobo-pork-dinner.md)
+- Equipment: [Egg](../../../equipment/egg.md), [Oven](../../../equipment/oven.md)
+- Meal: [Chipotle-Adobo Pork Dinner](../../../meals/2026/2026-09-23-chipotle-adobo-pork-dinner.md)

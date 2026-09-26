@@ -12,7 +12,7 @@ To be determined during testing.
 
 ## Required Equipment
 
-- [Sous vide](../../equipment/sous-vide.md) and grill, or [oven](../../equipment/oven.md) and grill
+- [Sous vide](../../../equipment/sous-vide.md) and grill, or [oven](../../../equipment/oven.md) and grill
 - Cutting board
 - Knife
 

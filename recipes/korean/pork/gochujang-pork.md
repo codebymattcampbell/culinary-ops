@@ -13,7 +13,7 @@ Tender pork shoulder finished in a spicy-sweet Korean-inspired gochujang sauce, 
 
 ## Required Equipment
 
-- [Instant Pot](../../equipment/instant-pot.md)
+- [Instant Pot](../../../equipment/instant-pot.md)
 - Cutting board and chef's knife
 - Mixing bowl
 - Tongs or two forks
@@ -148,4 +148,4 @@ Optional substitutions:
 
 - Experiments: Add after the first cook
 - Techniques: Pressure braising; sauce reduction; stir-frying
-- Equipment guides: [Instant Pot](../../equipment/instant-pot.md)
+- Equipment guides: [Instant Pot](../../../equipment/instant-pot.md)

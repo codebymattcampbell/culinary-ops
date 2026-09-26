@@ -12,5 +12,5 @@ See the [Zojirushi BB-PDC20 equipment notes](../../equipment/bread-machine.md).
 ## Other Bread Experiments
 
 - [Skillet Flatbread](skillet-flatbread/README.md)
-- [Teff Injera](teff-injera/)
-- [Yorkshire Pudding](yorkshire-pudding/)
+- [Teff Injera](teff-injera)
+- [Yorkshire Pudding](yorkshire-pudding)

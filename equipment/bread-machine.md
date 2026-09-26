@@ -51,7 +51,7 @@ This is the bread machine used for Culinary Ops bread-machine recipes and experi
 ### Current Recipes
 
 - [Bread Machine White Bread](../recipes/breads/bread-machine/bread-machine-white-bread.md) — **Experimental**; water-based baseline.
-- [Japanese Milk Bread (Shokupan)](../recipes/breads/bread-machine/japanese-milk-bread.md) — **Tested**; tangzhong-based enriched loaf.
+- [Japanese Milk Bread (Shokupan)](../recipes/japanese/breads/bread-machine/japanese-milk-bread.md) — **Tested**; tangzhong-based enriched loaf.
 
 ### Experiment History
 

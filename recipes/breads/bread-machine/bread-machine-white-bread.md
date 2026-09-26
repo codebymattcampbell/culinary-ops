@@ -97,4 +97,4 @@ The target is a smooth, elastic dough that is slightly tacky but cohesive.
 
 - [Bread Machine — Zojirushi BB-PDC20](../../../equipment/bread-machine.md)
 - [Experiment history](../../../experiments/breads/bread-machine-white-bread/README.md)
-- [Japanese Milk Bread](japanese-milk-bread.md)
+- [Japanese Milk Bread](../../japanese/breads/bread-machine/japanese-milk-bread.md)

@@ -8,13 +8,13 @@ A dish does not need the shortest total cook time to belong here. Some recipes q
 
 Meals that can usually reach the table in about 30 minutes or less.
 
-- [Turkish-Style Ground Turkey and Cabbage Skillet](../recipes/turkey/turkish-style-ground-turkey-cabbage-skillet.md)
+- [Turkish-Style Ground Turkey and Cabbage Skillet](../recipes/turkish/turkey/turkish-style-ground-turkey-cabbage-skillet.md)
 
 ## One-Pan Meals
 
 Meals designed to minimize cleanup.
 
-- [Turkish-Style Ground Turkey and Cabbage Skillet](../recipes/turkey/turkish-style-ground-turkey-cabbage-skillet.md)
+- [Turkish-Style Ground Turkey and Cabbage Skillet](../recipes/turkish/turkey/turkish-style-ground-turkey-cabbage-skillet.md)
 
 ## Easy Prep
 

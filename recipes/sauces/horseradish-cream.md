@@ -143,7 +143,7 @@ Before Serving
 
 ### Sauces
 
-- [Beef Jus](./beef-jus.md)
+- [Beef Jus](beef-jus.md)
 
 ### Vegetables
 
@@ -151,7 +151,7 @@ Before Serving
 
 ### Breads
 
-- [Yorkshire Pudding](../breads/yorkshire-pudding.md)
+- [Yorkshire Pudding](../british/breads/yorkshire-pudding.md)
 
 ---
 

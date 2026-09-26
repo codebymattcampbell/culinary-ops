@@ -12,9 +12,9 @@ A complete Ethiopian-inspired dinner built around Doro Wat, fermented teff injer
 
 ## Full Meal
 
-- [Doro Wat](../../recipes/chicken/doro-wat.md)
-- [Teff Injera](../../recipes/breads/teff-injera.md)
-- [Gomen](../../recipes/vegetables/gomen.md)
+- [Doro Wat](../../recipes/ethiopian/chicken/doro-wat.md)
+- [Teff Injera](../../recipes/ethiopian/breads/teff-injera.md)
+- [Gomen](../../recipes/ethiopian/vegetables/gomen.md)
 
 ## Cook Notes
 

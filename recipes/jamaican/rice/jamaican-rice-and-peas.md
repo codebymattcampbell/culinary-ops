@@ -12,7 +12,7 @@ Coconut rice with pigeon peas, scallion, thyme, garlic, and allspice. This Insta
 
 ## Required Equipment
 
-- [Instant Pot](../../equipment/instant-pot.md)
+- [Instant Pot](../../../equipment/instant-pot.md)
 - Fine-mesh strainer
 - Measuring cup
 

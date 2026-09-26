@@ -3,12 +3,15 @@
 
 The recipes directory is the source of truth. For each Markdown recipe at:
 
-    recipes/<category>/<recipe>.md
+    recipes/<cuisine>/<category>/<recipe>.md
 
 this script ensures the following file exists:
 
     experiments/<category>/<recipe>/v1.md
 
+Cuisine is omitted from experiment paths. Existing linked histories are reused,
+including dated logs and bread histories without the bread-machine subcategory.
+Legacy recipes awaiting a cuisine decision are also supported.
 Existing experiment files are never overwritten or deleted.
 """
 
@@ -23,6 +26,30 @@ ROOT = Path(__file__).resolve().parents[1]
 RECIPES_DIR = ROOT / "recipes"
 EXPERIMENTS_DIR = ROOT / "experiments"
 TEMPLATE_PATH = ROOT / "templates" / "experiment.md"
+
+# Food categories distinguish legacy paths from cuisine-first paths.
+CATEGORIES = {"beef", "breads", "chicken", "lamb", "pork", "rice", "salads",
+              "sauces", "turkey", "vegetables", "seafood", "fish", "shrimp",
+              "desserts", "pasta", "soups", "beans", "eggs"}
+
+
+def experiment_directory(recipe_path: Path) -> Path:
+    """Preserve a linked history, or resolve the food-category destination."""
+    for link in re.findall(r"\]\(([^\s)]+)\)", recipe_path.read_text(encoding="utf-8")):
+        target = (recipe_path.parent / link.split("#", 1)[0]).resolve()
+        if target.is_relative_to(EXPERIMENTS_DIR.resolve()) and target.exists():
+            return target if target.is_dir() else target.parent
+
+    relative = recipe_path.relative_to(RECIPES_DIR)
+    if len(relative.parts) >= 3 and relative.parts[1] in CATEGORIES:
+        relative = Path(*relative.parts[1:])
+    destination = EXPERIMENTS_DIR / relative.with_suffix("")
+    # Bread-machine recipes have historically kept logs directly under breads.
+    if len(relative.parts) > 2:
+        existing = EXPERIMENTS_DIR / relative.parts[0] / relative.stem
+        if existing.is_dir():
+            return existing
+    return destination
 
 
 def title_from_slug(slug: str) -> str:
@@ -63,10 +90,10 @@ def main() -> int:
         if recipe_path.name.lower() in {"readme.md", "index.md"}:
             continue
 
-        relative_recipe = recipe_path.relative_to(RECIPES_DIR)
-        destination = EXPERIMENTS_DIR / relative_recipe.with_suffix("") / "v1.md"
+        history = experiment_directory(recipe_path)
+        destination = history / "v1.md"
 
-        if destination.exists():
+        if any(history.glob("*.md")):
             continue
 
         destination.parent.mkdir(parents=True, exist_ok=True)

@@ -9,8 +9,8 @@
 
 ## Full Meal
 
-- [Chipotle-Adobo Smoked-Braised Pork](../../recipes/pork/chipotle-adobo-smoked-braised-pork.md)
-- [Mexican-Style Pigeon Pea Rice](../../recipes/rice/mexican-style-pigeon-pea-rice.md)
+- [Chipotle-Adobo Smoked-Braised Pork](../../recipes/mexican/pork/chipotle-adobo-smoked-braised-pork.md)
+- [Mexican-Style Pigeon Pea Rice](../../recipes/mexican/rice/mexican-style-pigeon-pea-rice.md)
 - [Cumin-Paprika Roasted Carrots](../../recipes/vegetables/cumin-paprika-roasted-carrots.md)
 - Salsa for serving
 

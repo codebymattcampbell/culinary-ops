@@ -1,6 +1,6 @@
 # Japanese Milk Bread Experiments
 
-Experiment history for [Japanese Milk Bread (Shokupan)](../../../recipes/breads/bread-machine/japanese-milk-bread.md) on the **Zojirushi BB-PDC20**.
+Experiment history for [Japanese Milk Bread (Shokupan)](../../../recipes/japanese/breads/bread-machine/japanese-milk-bread.md) on the **Zojirushi BB-PDC20**.
 
 ## Current Status
 

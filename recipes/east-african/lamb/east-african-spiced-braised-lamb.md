@@ -12,8 +12,8 @@ Approximately 6 servings.
 
 ## Required Equipment
 
-- [Instant Pot](../../equipment/instant-pot.md) or Dutch oven
-- [Stovetop](../../equipment/stovetop.md)
+- [Instant Pot](../../../equipment/instant-pot.md) or Dutch oven
+- [Stovetop](../../../equipment/stovetop.md)
 
 ## Ingredients
 

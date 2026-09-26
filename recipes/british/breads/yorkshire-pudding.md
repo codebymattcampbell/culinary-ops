@@ -159,16 +159,16 @@ Before Serving
 
 ### Proteins
 
-- [Sous Vide Chuck Roast](../beef/sous-vide-chuck-roast.md)
+- [Sous Vide Chuck Roast](../../beef/sous-vide-chuck-roast.md)
 
 ### Sauces
 
-- [Beef Jus](../sauces/beef-jus.md)
-- [Horseradish Cream](../sauces/horseradish-cream.md)
+- [Beef Jus](../../sauces/beef-jus.md)
+- [Horseradish Cream](../../sauces/horseradish-cream.md)
 
 ### Vegetables
 
-- [Roasted Root Vegetables](../vegetables/roasted-root-vegetables.md)
+- [Roasted Root Vegetables](../../vegetables/roasted-root-vegetables.md)
 
 ---
 

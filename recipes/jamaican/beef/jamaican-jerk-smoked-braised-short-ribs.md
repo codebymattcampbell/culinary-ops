@@ -13,7 +13,7 @@ Jerk-seasoned beef short ribs smoked on the Egg, then covered-braised until prob
 
 ## Required Equipment
 
-- [Big Green Egg](../../equipment/egg.md) or other kamado/smoker
+- [Big Green Egg](../../../equipment/egg.md) or other kamado/smoker
 - Foil pan
 - Heavy-duty aluminum foil
 - Instant-read thermometer or probe

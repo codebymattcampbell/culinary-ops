@@ -12,7 +12,7 @@ Savory Instant Pot rice with dried pigeon peas, onion, garlic, cumin, smoked pap
 
 ## Required Equipment
 
-- [Instant Pot](../../equipment/instant-pot.md)
+- [Instant Pot](../../../equipment/instant-pot.md)
 - Fine-mesh strainer
 - Measuring cups
 
@@ -81,5 +81,5 @@ Savory Instant Pot rice with dried pigeon peas, onion, garlic, cumin, smoked pap
 
 ## Related Information
 
-- Equipment: [Instant Pot](../../equipment/instant-pot.md)
-- Meal: [Chipotle-Adobo Pork Dinner](../../meals/2026/2026-09-23-chipotle-adobo-pork-dinner.md)
+- Equipment: [Instant Pot](../../../equipment/instant-pot.md)
+- Meal: [Chipotle-Adobo Pork Dinner](../../../meals/2026/2026-09-23-chipotle-adobo-pork-dinner.md)

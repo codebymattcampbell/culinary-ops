@@ -181,28 +181,28 @@ Before Serving
 
 ### Proteins
 
-- [Sous Vide Chuck Roast](../beef/sous-vide-chuck-roast.md)
+- [Sous Vide Chuck Roast](../../beef/sous-vide-chuck-roast.md)
 
 ### Vegetables
 
-- [Roasted Root Vegetables](../vegetables/roasted-root-vegetables.md)
+- [Roasted Root Vegetables](../../vegetables/roasted-root-vegetables.md)
 
 ### Sauces
 
-- [Beef Jus](../sauces/beef-jus.md)
-- [Horseradish Cream](../sauces/horseradish-cream.md)
+- [Beef Jus](../../sauces/beef-jus.md)
+- [Horseradish Cream](../../sauces/horseradish-cream.md)
 
 ### Breads
 
-- [Yorkshire Pudding](../breads/yorkshire-pudding.md)
+- [Yorkshire Pudding](../../british/breads/yorkshire-pudding.md)
 
 ---
 
 ## Related Techniques
 
-- [Fresh Preparation](../../techniques/fresh-preparation.md)
-- [Toasting](../../techniques/toasting.md)
-- [Emulsification](../../techniques/emulsification.md)
+- [Fresh Preparation](../../../techniques/fresh-preparation.md)
+- [Toasting](../../../techniques/toasting.md)
+- [Emulsification](../../../techniques/emulsification.md)
 
 ---
 
