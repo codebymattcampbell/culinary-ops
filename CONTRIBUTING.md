@@ -40,6 +40,10 @@ YYYY-MM-DD-short-description.md
 
 The recipe remains the current best-known method. The experiment directory preserves the evidence, observations, unsuccessful tests, and reasoning behind recipe changes.
 
+## Before Remaking a Recipe
+
+Read the recipe's experiment summary and latest cook notes before planning or starting a repeat cook. Bring forward prior observations and next-iteration adjustments, and distinguish confirmed results from suggestions or pending observations. Record the new cook in a dated log.
+
 ## Recipe Structure
 
 A recipe should normally include:
