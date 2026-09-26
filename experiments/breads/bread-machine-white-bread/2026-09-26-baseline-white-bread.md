@@ -2,7 +2,7 @@
 
 ## Metadata
 
-- Related Recipe: [Bread Machine White Bread](../../../recipes/breads/bread-machine-white-bread.md)
+- Related Recipe: [Bread Machine White Bread](../../../recipes/breads/bread-machine/bread-machine-white-bread.md)
 - Date: 26 Sep 2026
 - Status: In Progress
 - Machine: Zojirushi BB-PDC20
