@@ -57,11 +57,14 @@ collections/
 meals/
     Complete meal combinations, timelines, shopping plans, and component maps.
 
+weekly-planning/
+    The replaceable current-week dashboard and working recipe cards used to assign six cook days.
+
 templates/
     Consistent starting points for recipes, experiments, equipment guides, and meals.
 ```
 
-Browse the [recipe index](recipes/README.md) for cuisines, sauces, and the cross-cuisine Vegetables index.
+Browse the [recipe index](recipes/README.md) for cuisines, sauces, and the cross-cuisine Vegetables index. Open [Weekly Planning](weekly-planning/README.md) to review the current six recipes and assign cook days.
 
 ## How the Pieces Work Together
 
@@ -71,6 +74,7 @@ Browse the [recipe index](recipes/README.md) for cuisines, sauces, and the cross
 - Use **techniques** to learn skills that apply to many dishes.
 - Browse **collections** when deciding what to cook.
 - Use **meals** when coordinating multiple recipes into one dinner.
+- Use **weekly planning** to choose the current week's recipes and assign cook days before building the grocery list.
 
 Each piece of information should have one clear home. Other documents link to it rather than copying it.
 
