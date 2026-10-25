@@ -54,7 +54,9 @@ Ask Matt about uncertain classifications or cuisine-specific renaming. Only Matt
 
 ## Japanese
 
-- [Japanese Cabbage and Mushroom Soup](japanese/soups/cabbage-mushroom-dashi-soup.md)
+- [Japanese Soy-Marinated Ramen Eggs (Ajitsuke Tamago)](japanese/eggs/soy-marinated-ramen-eggs.md)
+
+- [Japanese Dashi Cabbage & Mushroom Soup](japanese/soups/cabbage-mushroom-dashi-soup.md)
 
 - [Japanese Milk Bread (Shokupan)](japanese/breads/bread-machine/japanese-milk-bread.md)
 

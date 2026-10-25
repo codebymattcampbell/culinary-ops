@@ -10,7 +10,7 @@
 
 ## Hypothesis
 
-Not recorded.
+The recipe discussion aimed for a light, savory, relatively clear vegetable soup for breakfast preparation. No formal test hypothesis was recorded.
 
 ## Variables
 
@@ -22,7 +22,11 @@ Not recorded.
 
 ## Inputs
 
-Ingredient quantities preserved in the linked recipe. Full cooking sequence, time and temperature were not preserved.
+Confirmed batch inputs: 6 cups water, three 8 g Grelim dashi packets, about 2.7 oz oyster mushrooms, 4–5 oz cremini mushrooms, plus cabbage, carrots, ginger and scallions.
+
+Newly consolidated planned quantities: one medium cabbage, three carrots, one inch ginger and three scallions. These actual batch quantities were not independently confirmed. Soy sauce (1–2 teaspoons) was an optional planned finish; use was not confirmed.
+
+Planned method: extract dashi per package directions and remove packets; gently simmer cabbage, carrots, ginger and scallion whites about 10 minutes, add mushrooms for 8–10 minutes, finish with optional soy sauce and scallion greens. Pressure cooking was not used. Exact execution, final seasoning and times remain unconfirmed.
 
 ## Observations
 
@@ -36,8 +40,8 @@ Soup was completed and heat turned off. Cooling/refrigeration was discussed; pla
 
 ## Recommended Recipe Change
 
-Keep this as an incomplete experimental record until quantities and method can be recovered.
+Expand the canonical recipe with the recovered plan, labeling planned quantities and sequence explicitly. Keep Experimental because final tasting and exact execution remain unconfirmed.
 
 ## Next Iteration
 
-Record all quantities, packet instructions, cooking sequence, times, tasting, yield and cooling/storage observations.
+Record actual weights, extraction directions, sequence, times, final seasoning, tasting, yield and cooling/storage. Evaluate 7–8 cups broth if needed for a whole cabbage, three-carrot quantity, dashi concentration and vegetable texture after reheating.
