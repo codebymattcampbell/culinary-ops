@@ -17,6 +17,8 @@ Browse vegetable recipes across cuisines. Each entry links to the recipe's one c
 
 ## Without a Chosen Cuisine
 
+- [Lemon-Garlic Mustard Greens](lemon-garlic-mustard-greens.md)
+
 - [Cumin-Paprika Roasted Carrots](cumin-paprika-roasted-carrots.md)
 - [Garlic-Lime Tostones](tostones-garlic-lime.md)
 

@@ -10,6 +10,8 @@ Ask Matt about uncertain classifications or cuisine-specific renaming. Only Matt
 
 ## American
 
+- [Pecan-Hickory Smoked Chuck Roast](american/beef/pecan-hickory-smoked-chuck-roast.md)
+
 - [Sous Vide Chuck Roast](american/beef/sous-vide-chuck-roast.md)
 - [Bread Machine White Bread](american/breads/bread-machine/bread-machine-white-bread.md)
 - [Skillet Flatbread](american/breads/skillet-flatbread.md)
@@ -52,6 +54,8 @@ Ask Matt about uncertain classifications or cuisine-specific renaming. Only Matt
 
 ## Japanese
 
+- [Japanese Cabbage and Mushroom Soup](japanese/soups/cabbage-mushroom-dashi-soup.md)
+
 - [Japanese Milk Bread (Shokupan)](japanese/breads/bread-machine/japanese-milk-bread.md)
 
 ## Korean
@@ -64,6 +68,8 @@ Ask Matt about uncertain classifications or cuisine-specific renaming. Only Matt
 - [Mexican-Style Pigeon Pea Rice](mexican/rice/mexican-style-pigeon-pea-rice.md)
 
 ## Sauces
+
+- [Mushroom-Onion Gravy](sauces/mushroom-onion-gravy.md)
 
 - [Beef Jus](sauces/beef-jus.md)
 - [Horseradish Cream](sauces/horseradish-cream.md)
@@ -79,6 +85,8 @@ Ask Matt about uncertain classifications or cuisine-specific renaming. Only Matt
 [Browse all vegetable recipes by cuisine](vegetables/README.md). Each link opens the original recipe; no recipe copies are maintained.
 
 Recipes without a chosen cuisine:
+
+- [Lemon-Garlic Mustard Greens](vegetables/lemon-garlic-mustard-greens.md)
 
 - [Cumin-Paprika Roasted Carrots](vegetables/cumin-paprika-roasted-carrots.md)
 - [Garlic-Lime Tostones](vegetables/tostones-garlic-lime.md)
