@@ -1,54 +1,61 @@
 # Mushroom-Onion Gravy
 
-Browned cremini and oyster mushrooms with the onion braising liquid from smoked chuck roast.
+Browned mushrooms in rich onion braising juices. The two large onions are a major part of the flavor.
 
 ## Status
 
-**Experimental. Planned, not confirmed cooked.** All times below are estimates.
+**Tested — v1 completed on 2026-10-25 and tasted delicious.** V2 adjustments are **UNTESTED**.
 
 ## Yield
 
-- One batch using the roast's braising liquid; final volume and servings unconfirmed.
+- One batch using the roast's braising liquid; final volume and servings not recorded.
 
 ## Required Equipment
 
 - Large skillet
-- Dutch oven, whisk and covered serving vessel
-- Stove / heat source
+- Dutch oven or saucepan, whisk and stove / heat source
 
-## Ingredients
+## Ingredients — Tested v1
 
-- Approximately 12–16 oz cremini and oyster mushrooms remaining after the soup allocation
-- Onion braising liquid from [Pecan-Hickory Smoked Chuck Roast](../american/beef/pecan-hickory-smoked-chuck-roast.md)
-- Approximately 2 tablespoons unsalted butter, divided
+- Cremini and oyster mushrooms; exact quantity and split unconfirmed (earlier plan estimated 12–16 oz)
+- Onions and braising liquid from [Pecan-Hickory Smoke-Braised Chuck Roast](../american/beef/pecan-hickory-smoked-chuck-roast.md): 2 large sliced yellow onions, 3 garlic cloves, 2 cups low-sodium beef broth, 1 tablespoon Worcestershire, 1 teaspoon Dijon, 1 teaspoon dried thyme and 1 bay leaf
+- Butter or cooking fat for browning; exact quantity used not recorded
 - 2 tablespoons cornstarch
 - 2 tablespoons cold water
-- Salt, black pepper, Worcestershire sauce and Dijon mustard, to taste
+- Salt and black pepper, to taste
 
-## Method
+## Method — Tested v1
 
-1. Slice cremini about ¼ inch thick; tear oyster mushrooms into about ½ inch strips.
-2. Preheat the skillet over medium-high heat for **2–3 minutes**.
-3. Brown mushrooms in two batches, using about 1 tablespoon butter per batch. Leave undisturbed for **2–3 minutes**, then stir and cook **2–3 minutes** more. Allow about **12–15 minutes total** for browning.
-4. Transfer roast to a covered serving vessel and keep warm.
-5. Add browned mushrooms to the onion braising liquid in the Dutch oven. Bring to a gentle simmer.
-6. Mix cornstarch with cold water. Whisk in half the slurry, simmer **1–2 minutes**, then add more only if needed.
-7. Taste and adjust seasoning.
+1. Slice cremini and tear oyster mushrooms into manageable pieces. Brown separately in a skillet with cooking fat, working in batches so they brown instead of crowding and steaming.
+2. Remove the cooked roast from its Dutch oven and keep warm. Remove the bay leaf.
+3. Add browned mushrooms to the onion braising juices and bring to a gentle simmer.
+4. Mix cornstarch with cold water. Stir again immediately before use, then whisk in gradually. Let each addition thicken before adding more; stop at a coating consistency. The full slurry may not be needed.
+5. Taste and adjust seasoning. Serve with the roast or another suitable main.
+
+## Proposed v2 — UNTESTED
+
+- Use **16 oz cremini only**, no oyster mushrooms.
+- Optional Dijon test: omit the braising Dijon and add **2 teaspoons to 1 tablespoon late in the finish**, gradually to taste.
+- Finish with **½–1 teaspoon sherry vinegar**, to taste.
+- Optionally add **1 additional teaspoon Worcestershire**.
+- No mustard greens in the v2 meal plan; test whether the vinegar provides sufficient brightness.
 
 ## Quality Targets
 
-- Browned mushrooms and gravy thick enough to coat the roast; final consistency and flavor remain untested.
+- Browned mushrooms, substantial onion flavor and gravy that coats the meat.
+- V1 tasted delicious. The 1 teaspoon braised Dijon was not clearly noticeable; Matt thought extra Worcestershire or acidity might help. Mustard greens supplied brightness in that meal.
 
 ## Notes
 
-- Allow approximately **20–25 minutes after mushroom preparation**.
-- Liquid volume after the roast cook is unknown, so add slurry gradually.
-- No completed gravy or tasting result was confirmed on 2026-10-25.
+- Liquid volume varies with the roast cook, so add slurry by consistency rather than automatically using it all.
+- Browning and thickening times were not recorded; earlier estimated timings are not verified results.
+- For another main, use suitable onion-rich braising juices and adjust seasoning after tasting; that adaptation has not been tested here.
 
 ## Variables to Record
 
-- Mushroom split, braising-liquid volume, slurry used, actual timing and final flavor/consistency
+- Mushroom amount, fat, browning time, juice volume and slurry used
+- Dijon timing and quantity, finishing acidity and Worcestershire
 
 ## Related Information
 
-- [Cook evidence and pending steps](../../experiments/beef/pecan-hickory-smoked-chuck-roast/2026-10-25-smoke-and-covered-finish.md)
+- [2026-10-25 cook log](../../experiments/beef/pecan-hickory-smoked-chuck-roast/2026-10-25-smoke-and-covered-finish.md)

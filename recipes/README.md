@@ -10,7 +10,7 @@ Ask Matt about uncertain classifications or cuisine-specific renaming. Only Matt
 
 ## American
 
-- [Pecan-Hickory Smoked Chuck Roast](american/beef/pecan-hickory-smoked-chuck-roast.md)
+- [Pecan-Hickory Smoke-Braised Chuck Roast with Mushroom-Onion Gravy](american/beef/pecan-hickory-smoked-chuck-roast.md)
 
 - [Sous Vide Chuck Roast](american/beef/sous-vide-chuck-roast.md)
 - [Bread Machine White Bread](american/breads/bread-machine/bread-machine-white-bread.md)
@@ -92,3 +92,5 @@ Recipes without a chosen cuisine:
 
 - [Cumin-Paprika Roasted Carrots](vegetables/cumin-paprika-roasted-carrots.md)
 - [Garlic-Lime Tostones](vegetables/tostones-garlic-lime.md)
+- [Sous Vide Large-Cut Carrots](vegetables/sous-vide-large-cut-carrots.md) — untested
+- [Sous Vide Yukon Gold Mashed Potatoes](vegetables/sous-vide-yukon-gold-mashed-potatoes.md) — untested

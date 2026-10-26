@@ -1,33 +1,34 @@
-# Pecan-Hickory Smoked Boneless Chuck Under-Blade Pot Roast
+# Pecan-Hickory Smoke-Braised Chuck Roast with Mushroom-Onion Gravy
 
-Smoke the roast over pecan and hickory, then finish covered in onion braising liquid.
+Pecan and hickory smoke, a covered onion braise, and browned mushrooms make a rich chuck roast dinner.
 
 ## Status
 
-**Experimental.** The 2026-10-25 cook reached accepted tenderness and warm holding. Final eating assessment is pending; this is not yet a fully tested recipe.
+**Tested — v1 cooked on 2026-10-25 and tasted delicious.** Proposed v2 changes below are **UNTESTED**.
 
 ## Yield
 
-- One roast; weight, servings and portion size were not recorded.
+- One boneless chuck under-blade pot roast; weight and servings were not recorded.
 
 ## Required Equipment
 
-- Big Green Egg with ceramic deflector for indirect heat, as named in the cook notes
+- Indirect ceramic cooker with deflector: [Egg guide](../../../equipment/egg.md)
 - Dutch oven with lid
 - [Oven](../../../equipment/oven.md)
 - Meat thermometer / tenderness probe
+- Skillet and whisk for gravy
 
-The repository's [Egg guide](../../../equipment/egg.md) identifies a Vision kamado. Confirm cooker identity before applying its model-specific notes to this cook.
+The source calls the cooker an Egg / Big Green Egg; the equipment guide identifies a Vision kamado. Cooker identity remains unresolved; use model-specific guidance only after confirming it.
 
 ## Ingredients
 
-- USDA Choice boneless beef chuck under-blade pot roast
-- Pecan wood chips and a hickory wood chunk
-- Roast seasoning: ingredients and exact quantities were not preserved
+- 1 boneless beef chuck under-blade pot roast (USDA Choice in v1)
+- Roast seasoning: original ingredients and quantities not recorded
+- Pecan chips and a hickory chunk; quantities not recorded
 
-### Onion Braising Liquid
+### Onion Braising Liquid — Tested v1
 
-- 2 large yellow onions, sliced about ⅛ inch thick
+- 2 large yellow onions, thinly sliced
 - 3 garlic cloves, minced
 - 2 cups low-sodium beef broth
 - 1 tablespoon Worcestershire sauce
@@ -35,37 +36,53 @@ The repository's [Egg guide](../../../equipment/egg.md) identifies a Vision kama
 - 1 teaspoon dried thyme
 - 1 bay leaf
 
-## Method
+### Mushroom-Onion Gravy
 
-The smoke, covered finish and warm hold below were performed on 2026-10-25. Total smoking time was not recorded.
+- Browned mushrooms: v1 used cremini and oyster mushrooms; exact amount and split unconfirmed
+- Braising liquid and onions from the roast
+- Cornstarch slurry: 2 tablespoons cornstarch mixed with 2 tablespoons cold water, added gradually as needed
+- See [Mushroom-Onion Gravy](../../sauces/mushroom-onion-gravy.md) for the reusable gravy method and proposed finishing tests.
 
-1. Prepare indirect heat with the ceramic deflector and pecan chips plus a hickory chunk. Target **250°F dome temperature**, with an acceptable range of **225–275°F**. Original roast seasoning is unknown; record the seasoning used on the next cook.
-2. Smoke the roast, checking both thick and thin portions. Use probe tenderness to judge progress rather than a single internal temperature.
-3. Prepare the onion braising liquid: cook the sliced onions about **15–20 minutes**, then add the broth and remaining braising ingredients. The onion cooking fat, heat level and exact garlic addition time were not preserved.
-4. Transfer the roast to the Dutch oven containing the prepared liquid. Cover and finish in a **275°F oven**.
-5. Check tenderness after about **20 minutes**; that was sufficient for the recorded roast. Extend only as needed for the probe to enter easily. This finishing time is an observation, not a guaranteed duration for every roast.
-6. For the recorded hold, keep the Dutch oven covered with its braising liquid in a **170°F oven**. Hold duration and measured food temperature were not recorded.
-7. Planned, not confirmed: transfer to a covered serving vessel, finish the linked gravy, then slice or pull for serving. No final cutting or serving method was confirmed.
+## Method — Tested v1
+
+1. Set up the Egg for indirect cooking around **250°F** with pecan chips and a hickory chunk. Record seasoning on the next cook; the original seasoning was not preserved.
+2. Smoke the roast. On 2026-10-25 it went on around **10:15 AM**. At the end of smoking, the thickest section read about **195°F**, while thinner areas reached about **222°F**. These are observations, not targets to repeat.
+3. Cook the sliced onions about **15–20 minutes**, then add garlic, broth, Worcestershire, Dijon, thyme and bay leaf. Exact fat, heat level and garlic addition timing were not preserved.
+4. Place the roast in the onion braising liquid, cover the Dutch oven and finish around **275°F**. About **20 minutes** was sufficient for accepted tenderness in v1 because the roast had already cooked extensively during smoking.
+5. Remove the roast and keep warm while making the gravy. Brown mushrooms separately, then add them to the braising liquid and onions.
+6. Bring the juices to a gentle simmer. Stir the slurry again, then whisk it in gradually, allowing it to thicken before deciding whether to add more. The whole slurry may not be needed.
+7. Taste and adjust, remove the bay leaf, and serve the roast with the gravy. Final slicing or pulling method was not recorded.
+
+## Proposed v2 — UNTESTED
+
+- Shorten the smoke: transfer at roughly **155–165°F internal temperature**, then braise covered around **275°F** until probe tender. Expect a substantially longer braise than v1's 20-minute finish; no reliable duration has been established.
+- Judge tenderness in several areas: a probe should enter with little resistance. Temperature alone does not establish tenderness.
+- Use **16 oz cremini mushrooms only**, with no oyster mushrooms.
+- As an optional flavor test, omit the braising Dijon and try **2 teaspoons to 1 tablespoon Dijon late in the gravy finish**, adding gradually and tasting.
+- Finish gravy with **½–1 teaspoon sherry vinegar**, to taste, and optionally **1 additional teaspoon Worcestershire sauce**.
+- No mustard greens in the v2 plan. The vinegar is a proposed way to provide brightness within the gravy.
 
 ## Quality Targets
 
-- Doneness: probe enters easily; some resistance was noted before the covered finish and tenderness was accepted afterward.
-- Flavor, moisture and final serving texture: not yet assessed in the available notes.
-- The observed 222°F thin-section and 195°F thick-section readings are cook observations, not target temperatures.
+- Probe-tender roast and browned mushrooms in gravy that coats the meat.
+- Tested flavor assessment: delicious. The two whole onions contributed substantially.
+- The 1 teaspoon braised Dijon was not clearly noticeable; more Dijon and late addition remain tests.
 
-## Notes
+## Notes and Sides
 
-- Under-blade pot roast replaced the originally planned cross-rib roast.
-- Pair with [Mushroom-Onion Gravy](../../sauces/mushroom-onion-gravy.md) and [Lemon-Garlic Mustard Greens](../../vegetables/lemon-garlic-mustard-greens.md); both remained planned in this cook.
-- Carrots are an optional side for future meals, not a required roast ingredient. They and dinner rolls were removed from today's menu.
-- Storage and reheating were not established by this cook.
+- [Sous Vide Large-Cut Carrots](../../vegetables/sous-vide-large-cut-carrots.md) — reusable, **untested**.
+- [Sous Vide Yukon Gold Mashed Potatoes](../../vegetables/sous-vide-yukon-gold-mashed-potatoes.md) — reusable, **untested**.
+- Sides are optional and may accompany other mains. Their shared-bath schedule is a trial plan, not a tested dinner timeline.
+- Mustard greens supplied brightness in v1, according to the final tasting discussion.
+- A covered 170°F oven hold was recorded in v1; hold duration and measured food temperature were not recorded.
+- Roast weight, smoking duration and final serving time remain unknown.
 
 ## Variables to Record
 
-- Roast weight, thickness and seasoning
-- Wood quantities, vent settings, smoking duration and transfer time
-- Probe readings and tenderness by location
-- Hold duration, food temperature, final texture and tasting assessment
+- Roast weight, thickness, seasoning, wood quantities and smoking duration
+- Transfer temperature, braising duration and probe tenderness by location
+- Mushroom quantity, liquid volume and slurry actually used
+- Dijon timing, vinegar/Worcestershire amounts and final flavor balance
 
 ## Related Information
 

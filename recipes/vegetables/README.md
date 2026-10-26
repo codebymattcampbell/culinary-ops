@@ -21,6 +21,8 @@ Browse vegetable recipes across cuisines. Each entry links to the recipe's one c
 
 - [Cumin-Paprika Roasted Carrots](cumin-paprika-roasted-carrots.md)
 - [Garlic-Lime Tostones](tostones-garlic-lime.md)
+- [Sous Vide Large-Cut Carrots](sous-vide-large-cut-carrots.md) — untested
+- [Sous Vide Yukon Gold Mashed Potatoes](sous-vide-yukon-gold-mashed-potatoes.md) — untested
 
 ## Vegetable-Centered Main Dishes
 

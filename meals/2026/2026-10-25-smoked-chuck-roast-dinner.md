@@ -4,16 +4,16 @@
 
 - Date: 2026-10-25
 - Theme: Pecan-hickory smoked chuck roast with mushroom-onion gravy and mustard greens
-- Status: Planned — roast completed and holding; full dinner completion unconfirmed
+- Status: Cooked — roast and gravy tasted delicious; final serving time not recorded
 - Servings: not recorded
 
 ## Components
 
 | Type | Recipe | Recorded status |
 |---|---|---|
-| MAIN | [Smoked chuck roast](../../recipes/american/beef/pecan-hickory-smoked-chuck-roast.md) | Completed through warm holding |
-| SAUCE | [Mushroom-onion gravy](../../recipes/sauces/mushroom-onion-gravy.md) | Planned, not confirmed cooked |
-| SIDE | [Lemon-garlic mustard greens](../../recipes/vegetables/lemon-garlic-mustard-greens.md) | Planned, not confirmed cooked |
+| MAIN | [Smoked chuck roast](../../recipes/american/beef/pecan-hickory-smoked-chuck-roast.md) | Cooked; final tasting delicious |
+| SAUCE | [Mushroom-onion gravy](../../recipes/sauces/mushroom-onion-gravy.md) | Completed; final tasting delicious |
+| SIDE | [Lemon-garlic mustard greens](../../recipes/vegetables/lemon-garlic-mustard-greens.md) | Matt confirmed greens supplied brightness; exact preparation unrecorded |
 | SEPARATE DISH | [Japanese cabbage and mushroom soup](../../recipes/japanese/soups/cabbage-mushroom-dashi-soup.md) | Completed; final tasting/storage unconfirmed |
 
 ## Equipment Plan
@@ -48,10 +48,10 @@ Actual morning times and confirmed roast steps are in the [cook log](../../exper
 - Carrots as a roast side and dinner rolls were removed to reduce workload. Carrots remain optional for future roast meals; they were still used in the separate soup.
 - Japanese marinated eggs were deferred because the cook was becoming overwhelming.
 - Greens and gravy were retained in the plan.
-- No confirmed final slicing/pulling, serving time or gravy/greens result.
+- Final follow-up confirmed delicious roast and gravy, with substantial onion flavor; greens supplied brightness. Final slicing/pulling and serving time remain unrecorded.
 - Keep instructions in component recipes rather than duplicating them here.
 
 ## Review
 
-- What worked: roast reached accepted probe tenderness and moved into covered warm holding; soup was completed.
-- What to change next time: collect missing quantities, actual finish/hold times and final tasting results before drawing further conclusions.
+- What worked: roast and mushroom-onion gravy completed and tasted delicious; greens provided brightness.
+- What to change next time: see the roast recipe for untested v2 and reusable sous vide carrot/mash side plans. These sides were not confirmed cooked in this meal. No mustard greens in v2.

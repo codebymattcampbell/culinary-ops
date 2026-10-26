@@ -4,7 +4,7 @@
 
 - Date: 2026-10-25
 - Related Recipe: [Pecan-Hickory Smoked Chuck Roast](../../../recipes/american/beef/pecan-hickory-smoked-chuck-roast.md)
-- Status: Revisit — roast cook completed through holding; meal completion and final assessment pending
+- Status: Tested v1 — roast and mushroom-onion gravy completed; final tasting delicious
 - Version: v1
 - Source: Matt's supplied summary of the “Start mushroom prep” conversation. Times are approximate local clock times.
 
@@ -51,13 +51,18 @@ Onions were cooked about 15–20 minutes before broth and remaining braising ing
 - What worked: tenderness was accepted after the covered finish and roast moved to warm holding.
 - What did not work: no failure assessment recorded.
 - Surprises: substantial temperature variation between thin and thick portions.
-- Final eating quality, slicing/pulling method, serving time and meal outcome were not confirmed.
-- [Gravy](../../../recipes/sauces/mushroom-onion-gravy.md) and [greens](../../../recipes/vegetables/lemon-garlic-mustard-greens.md) were planned only; their recipe timings are estimates.
+- Final follow-up: roast and [Mushroom-Onion Gravy](../../../recipes/sauces/mushroom-onion-gravy.md) were completed and tasted delicious. Mushrooms were browned separately, added to onion braising juices and thickened gradually with a 2 tablespoon cornstarch / 2 tablespoon water slurry. Exact amount used was not recorded.
+- Two large onions contributed substantially. The 1 teaspoon braised Dijon was not clearly noticeable; extra Worcestershire or acidity was suggested. Matt confirmed mustard greens supplied brightness in this meal, though their exact preparation was not documented.
+- Final slicing/pulling method and serving time remain unknown.
 
 ## Recommended Recipe Change
 
-Retain smoking followed by a covered finish. Judge progress by probe tenderness across the roast rather than relying exclusively on internal temperature. Do not promote the recipe to Tested based only on accepted probe tenderness.
+Promote roast and gravy to Tested based on the completed cook and delicious final tasting. Retain v1 as the tested method; distinguish the proposed v2 below.
 
 ## Next Iteration
 
-Record weight, thickness, seasoning, wood quantities, vent settings, all transfer times, hold duration and measured food temperature. Confirm final flavor, moisture, texture, gravy/greens results and serving method.
+**V2 — UNTESTED:** transfer from smoke at roughly 155–165°F, then braise longer at about 275°F until probe tender. Use 16 oz cremini only, no oyster mushrooms. Optionally omit braising Dijon and test 2 teaspoons to 1 tablespoon late in the gravy finish. Finish with ½–1 teaspoon sherry vinegar to taste and optionally 1 extra teaspoon Worcestershire. No mustard greens in v2.
+
+The reusable sous vide carrots and Yukon Gold mash linked from the recipe are untested side plans, not results from this cook. Record cut sizes, bath recovery and actual texture-based timing.
+
+Also record roast weight, thickness, seasoning, wood quantities, transfer times, braising time, hold duration, measured food temperature and serving method.
